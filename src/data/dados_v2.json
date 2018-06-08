@@ -1,0 +1,5637 @@
+[{
+		"id": 1,
+		"cor": "deep-orange",
+		"nome": "Fortalecimento na relação com os associados com soluções adequadas a cada segmento",
+		"responsaveis": [
+			"PRESI",
+			"DISEG"
+		],
+		"indicadorMacro": {
+			"nome": "Satisfação dos participantes",
+			"target": "P1 - 95% PF - 95%",
+			"atual": "P1 - 89,5% PF - 91%"
+		},
+		"diretrizes": [{
+				"id": "1.1",
+				"nome": "Proporcionar canais de relacionamento orientados a cada segmento",
+				"responsaveis": [
+					"GERAT"
+				],
+				"indicadores": [{
+						"nome": "% de satisfação com o atendimento",
+						"target": "90%",
+						"atual": "91%"
+					},
+					{
+						"nome": "% de desinstalações do APP",
+						"target": "25%",
+						"atual": "35%"
+					},
+					{
+						"nome": "% de satisfação com o atendimento realizado pelo canal Fale Conosco",
+						"target": "90%",
+						"atual": "-"
+					},
+					{
+						"nome": "Número de acessos ao APP",
+						"target": "10mil/mês",
+						"atual": "700/mês"
+					},
+					{
+						"nome": "Avaliação do APP nas lojas",
+						"target": "3,5",
+						"atual": "02/01/1900"
+					}
+				],
+				"iniciativas": [{
+						"id": "1.1.1",
+						"nome": "Modernizar os canais de atendimento existentes",
+						"responsaveis": [
+							"GERAT"
+						],
+						"conducao": [{
+							"nome": "Kleber Carvalho",
+							"email": "kleber@previ.com.br"
+						}],
+						"intervenientes": [
+							"INFOR"
+						],
+						"inicio": "01/02/2018",
+						"fim": "28/12/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EQM1JjVMObdIrcXPQgnTk-MBwOy16ZryEjspM0pARbJi3g?e=4do9cb",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/02/2018"
+						],
+						"entregasAtb2": [
+							"01/02/2018"
+						],
+						"etapas": [{
+								"id": "1.1.1.1",
+								"descricao": "Concluir FSD 20.903 referente a criação de item para gravação de mensagem informativa de URA",
+								"inicio": "02/07/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "1.1.1.2",
+								"descricao": "Homologar FSD 20.903",
+								"inicio": "01/08/2018",
+								"fim": "31/08/2018"
+							},
+							{
+								"id": "1.1.1.3",
+								"descricao": "FSD 20.903 homologada",
+								"inicio": "31/08/2018",
+								"fim": "31/08/2018"
+							},
+							{
+								"id": "1.1.1.4",
+								"descricao": "Permitir a gravação de mensagem informativa de URA, conforme evolução solicitada por meio da FSD 20.903",
+								"inicio": "03/09/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "1.1.1.5",
+								"descricao": "Concluir FSD 22.093 alteração do menu de navegação da URA e criação de novos segmentos de atendimento telefônico",
+								"inicio": "01/10/2018",
+								"fim": "31/10/2018"
+							},
+							{
+								"id": "1.1.1.6",
+								"descricao": "Homologar FSD 22.093",
+								"inicio": "01/11/2018",
+								"fim": "30/11/2018"
+							},
+							{
+								"id": "1.1.1.7",
+								"descricao": "FSD 22.093 homologada",
+								"inicio": "30/11/2018",
+								"fim": "30/11/2018"
+							},
+							{
+								"id": "1.1.1.8",
+								"descricao": "Alterar menu de navegação da URA e criar novos segmentos de atendimento telefônico",
+								"inicio": "03/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.1.1.9",
+								"descricao": "Menu de navegação da URA alterado",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.1.1.10",
+								"descricao": "Abertura FSD de evolução do SAP para implementação de pesquisa de satisfação - Fale Conosco",
+								"inicio": "01/02/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.1.1.11",
+								"descricao": "FSD pesquisa de satisfação aberta",
+								"inicio": "28/02/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.1.1.12",
+								"descricao": "Concluir FSD para implementação pesquisa de satisfação",
+								"inicio": "01/10/2018",
+								"fim": "31/10/2018"
+							},
+							{
+								"id": "1.1.1.13",
+								"descricao": "Homologar FSD pesquisa de satisfação",
+								"inicio": "01/11/2018",
+								"fim": "30/11/2018"
+							},
+							{
+								"id": "1.1.1.14",
+								"descricao": "Implementar pesquisa de satisfação para os atendimentos prestados pelo Fale Conosco",
+								"inicio": "03/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.1.1.15",
+								"descricao": "Pesquisa de satisfação implementada",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							}
+						]
+					},
+					{
+						"id": "1.1.2",
+						"nome": "Evoluir o APP com oferta de novos serviços e versões 2.1 e 2.2",
+						"responsaveis": [
+							"ASCOM"
+						],
+						"conducao": [{
+							"nome": "Katia Belarmino",
+							"email": "katiabelarmino@previ.com.br"
+						}],
+						"intervenientes": [
+							"GESOP",
+							"GESAD",
+							"INFOR",
+							"GEVAR"
+						],
+						"inicio": "02/01/2018",
+						"fim": "28/12/2018",
+						"status": 3,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EYJgRgnZmLtCnfD9c0_1QXMBdBLzJob2vS_A1jJ033VtuQ?e=UWP72H",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/03/2018"
+						],
+						"etapas": [{
+								"id": "1.1.2.1",
+								"descricao": "Análise do formato atual dos serviços",
+								"inicio": "02/01/2018",
+								"fim": "17/01/2018"
+							},
+							{
+								"id": "1.1.2.2",
+								"descricao": "Elaboração de escopo e pedido de aditivo ao contrato",
+								"inicio": "02/01/2018",
+								"fim": "17/01/2018"
+							},
+							{
+								"id": "1.1.2.3",
+								"descricao": "Abertura de demanda para Infor versões 2.1 (2.1.1 e 2.1.2)",
+								"inicio": "02/01/2018",
+								"fim": "02/01/2018"
+							},
+							{
+								"id": "1.1.2.4",
+								"descricao": "FSD aberta versão 2.1",
+								"inicio": "30/03/2018",
+								"fim": "30/03/2018"
+							},
+							{
+								"id": "1.1.2.5",
+								"descricao": "Solicitação de proposta de aditivação do contrato atual para as versões 2.1 a 2.5",
+								"inicio": "18/01/2018",
+								"fim": "29/01/2018"
+							},
+							{
+								"id": "1.1.2.6",
+								"descricao": "Habilitação técnica da proposta recebida",
+								"inicio": "29/01/2018",
+								"fim": "16/02/2018"
+							},
+							{
+								"id": "1.1.2.7",
+								"descricao": "Negociação da proposta comercial",
+								"inicio": "09/02/2018",
+								"fim": "16/02/2018"
+							},
+							{
+								"id": "1.1.2.8",
+								"descricao": "Aprovação escalão competente",
+								"inicio": "19/02/2018",
+								"fim": "23/02/2018"
+							},
+							{
+								"id": "1.1.2.9",
+								"descricao": "Formalização da contratação",
+								"inicio": "26/02/2018",
+								"fim": "02/03/2018"
+							},
+							{
+								"id": "1.1.2.10",
+								"descricao": "Fornecedor contratado",
+								"inicio": "30/03/2018",
+								"fim": "30/03/2018"
+							},
+							{
+								"id": "1.1.2.11",
+								"descricao": "Proposta de wireframe de tela e navegação, layout de tela, ajustes e aprovação para a versão 2.1.1",
+								"inicio": "12/02/2018",
+								"fim": "02/03/2018"
+							},
+							{
+								"id": "1.1.2.12",
+								"descricao": "Construção de API versão 2.1.1",
+								"inicio": "06/02/2018",
+								"fim": "09/03/2018"
+							},
+							{
+								"id": "1.1.2.13",
+								"descricao": "Construção da interface gráfica do APP e testes da versão 2.1.1",
+								"inicio": "17/01/2018",
+								"fim": "09/03/2018"
+							},
+							{
+								"id": "1.1.2.14",
+								"descricao": "Homologação da versão 2.1.1",
+								"inicio": "12/03/2018",
+								"fim": "23/03/2018"
+							},
+							{
+								"id": "1.1.2.15",
+								"descricao": "Publicação do APP versão 2.1.1 nas lojas",
+								"inicio": "26/03/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "1.1.2.16",
+								"descricao": "Proposta de wireframe de tela e navegação, layout de tela, ajustes e aprovação para versão 2.1.2",
+								"inicio": "02/04/2018",
+								"fim": "04/05/2018"
+							},
+							{
+								"id": "1.1.2.17",
+								"descricao": "Construção de API para a versão 2.1.2",
+								"inicio": "02/04/2018",
+								"fim": "13/04/2018"
+							},
+							{
+								"id": "1.1.2.18",
+								"descricao": "Construção interface gráfica do APP e testes da versão 2.1.2",
+								"inicio": "26/02/2018",
+								"fim": "08/05/2018"
+							},
+							{
+								"id": "1.1.2.19",
+								"descricao": "Construção das telas da GERAT",
+								"inicio": "16/04/2018",
+								"fim": "07/05/2018"
+							},
+							{
+								"id": "1.1.2.20",
+								"descricao": "Homologação versão 2.1.2",
+								"inicio": "08/05/2018",
+								"fim": "23/05/2018"
+							},
+							{
+								"id": "1.1.2.21",
+								"descricao": "Publicação do APP versão 2.1.2 nas lojas",
+								"inicio": "24/05/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "1.1.2.22",
+								"descricao": "Versão 2.1 (2.1.1 e 2.1.2) implantada e disponível nas lojas",
+								"inicio": "31/07/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "1.1.2.23",
+								"descricao": "Abertura de demanda para a Infor versão 2.2",
+								"inicio": "30/05/2018",
+								"fim": "01/06/2018"
+							},
+							{
+								"id": "1.1.2.24",
+								"descricao": "FSD aberta versão 2.2",
+								"inicio": "28/09/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "1.1.2.25",
+								"descricao": "Proposta de wireframe de tela e navegação, layout de tela, ajustes e aprovação para versão 2.2",
+								"inicio": "04/06/2018",
+								"fim": "13/07/2018"
+							},
+							{
+								"id": "1.1.2.26",
+								"descricao": "Construção de API para versão 2.2",
+								"inicio": "04/06/2018",
+								"fim": "04/09/2018"
+							},
+							{
+								"id": "1.1.2.27",
+								"descricao": "Implantação da solução versão 2.2, testes, ajustes",
+								"inicio": "16/07/2018",
+								"fim": "21/09/2018"
+							},
+							{
+								"id": "1.1.2.28",
+								"descricao": "Publicação do APP versão 2.2 nas lojas",
+								"inicio": "24/09/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "1.1.2.29",
+								"descricao": "Versão 2.2 implantada e disponível nas lojas",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.1.2.30",
+								"descricao": "Reavaliação da proposta de evolução do APP criada pela Diseg (plataforma de seguridade)",
+								"inicio": "30/07/2018",
+								"fim": "03/08/2018"
+							},
+							{
+								"id": "1.1.2.31",
+								"descricao": "Revisão de escopo da versão 2.3",
+								"inicio": "06/08/2018",
+								"fim": "17/08/2018"
+							},
+							{
+								"id": "1.1.2.32",
+								"descricao": "Análise do formato atual dos serviços para revisão e definição dos novos serviços",
+								"inicio": "20/08/2018",
+								"fim": "14/09/2018"
+							},
+							{
+								"id": "1.1.2.33",
+								"descricao": "Abertura de demanda para a Infor versão 2.3",
+								"inicio": "17/09/2018",
+								"fim": "18/09/2018"
+							},
+							{
+								"id": "1.1.2.34",
+								"descricao": "Proposta de wireframe de tela e navegação, layout de tela, ajustes e aprovação para versão 2.3",
+								"inicio": "19/09/2018",
+								"fim": "19/10/2018"
+							},
+							{
+								"id": "1.1.2.35",
+								"descricao": "Construção de API para versão 2.3",
+								"inicio": "19/09/2018",
+								"fim": "16/11/2018"
+							},
+							{
+								"id": "1.1.2.36",
+								"descricao": "Implantação da solução versão 2.3, testes, ajustes",
+								"inicio": "22/10/2018",
+								"fim": "23/11/2018"
+							},
+							{
+								"id": "1.1.2.37",
+								"descricao": "Publicação do APP versão 2.3 nas lojas",
+								"inicio": "26/11/2018",
+								"fim": "30/11/2018"
+							}
+						]
+					},
+					{
+						"id": "1.1.3",
+						"nome": "Evoluir o APP com oferta de novos serviços e versões 2.3 e 2.4",
+						"responsaveis": [
+							"ASCOM"
+						],
+						"conducao": [{
+							"nome": "Katia Belarmino",
+							"email": "katiabelarmino@previ.com.br"
+						}],
+						"intervenientes": [
+							"GECAT",
+							"GEBEN",
+							"GEVAR",
+							"GERAT",
+							"GESOP",
+							"INFOR",
+							"GESAD"
+						],
+						"inicio": "03/12/2018",
+						"fim": "31/07/2019",
+						"status": 5,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EQLrTWdxKCFCrDmP_ER1e5EBCVw1tD8N2ST5gRM0XhwsCQ?e=aAr9Gh",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+								"id": "1.1.3.1",
+								"descricao": "Análise do formato atual dos serviços para revisão e definição das informações",
+								"inicio": "03/12/2018",
+								"fim": "10/12/2018"
+							},
+							{
+								"id": "1.1.3.2",
+								"descricao": "Elaboração de escopo",
+								"inicio": "03/12/2018",
+								"fim": "10/12/2018"
+							},
+							{
+								"id": "1.1.3.3",
+								"descricao": "Abertura de demanda para a Infor versões 2.4 e 2.5",
+								"inicio": "11/12/2018",
+								"fim": "11/12/2018"
+							},
+							{
+								"id": "1.1.3.4",
+								"descricao": "Proposta de wireframe de tela e navegação, layout de tela e ajustes e aprovação para a versão 2.4",
+								"inicio": "03/12/2018",
+								"fim": "13/12/2018"
+							},
+							{
+								"id": "1.1.3.5",
+								"descricao": "Construção de API para a versão 2.4",
+								"inicio": "17/12/2018",
+								"fim": "18/03/2019"
+							},
+							{
+								"id": "1.1.3.6",
+								"descricao": "Implantação da solução versão 2.4, testes, ajustes",
+								"inicio": "11/02/2019",
+								"fim": "22/03/2019"
+							},
+							{
+								"id": "1.1.3.7",
+								"descricao": "Publicação do APP versão 2.4 nas lojas",
+								"inicio": "25/03/2019",
+								"fim": "29/03/2019"
+							},
+							{
+								"id": "1.1.3.8",
+								"descricao": "Reavaliação da proposta de evolução do APP criada pela Diseg, em função da Plataforma de Seguridade",
+								"inicio": "25/03/2019",
+								"fim": "29/03/2019"
+							},
+							{
+								"id": "1.1.3.9",
+								"descricao": "Revisão de escopo da versão 2.5",
+								"inicio": "01/04/2019",
+								"fim": "05/04/2019"
+							},
+							{
+								"id": "1.1.3.10",
+								"descricao": "Análise do formato atual dos serviços para revisão e definição das informações",
+								"inicio": "08/04/2019",
+								"fim": "18/04/2019"
+							},
+							{
+								"id": "1.1.3.11",
+								"descricao": "Proposta de wireframe de tela e navegação, layout de tela, ajustes e aprovação versão 2.5",
+								"inicio": "22/04/2019",
+								"fim": "21/06/2019"
+							},
+							{
+								"id": "1.1.3.12",
+								"descricao": "Construção de API para a versão 2.5",
+								"inicio": "22/04/2019",
+								"fim": "17/07/2019"
+							},
+							{
+								"id": "1.1.3.13",
+								"descricao": "Implantação da solução versão 2.5, testes, ajustes",
+								"inicio": "24/06/2019",
+								"fim": "23/07/2019"
+							},
+							{
+								"id": "1.1.3.14",
+								"descricao": "Publicação do APP versão 2.5 nas lojas",
+								"inicio": "24/07/2019",
+								"fim": "31/07/2019"
+							}
+						]
+					},
+					{
+						"id": "1.1.4",
+						"nome": "Avaliar a viabilidade para implantação da CPP no APP e site Previ",
+						"responsaveis": [
+							"ASCOM"
+						],
+						"conducao": [{
+							"nome": "Katia Belarmino",
+							"email": "katiabelarmino@previ.com.br"
+						}],
+						"intervenientes": [
+							"INFOR"
+						],
+						"inicio": "02/01/2018",
+						"fim": "27/07/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/ESLngA4Q0VxCm9iDLLFVlakBw4lkD_25rZls_UtweXawwQ?e=co95Qk",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/03/2018"
+						],
+						"etapas": [{
+								"id": "1.1.4.1",
+								"descricao": "Benchmarking BB",
+								"inicio": "02/01/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.1.4.2",
+								"descricao": "Definição do escopo da CPP",
+								"inicio": "01/03/2018",
+								"fim": "16/03/2018"
+							},
+							{
+								"id": "1.1.4.3",
+								"descricao": "Abertura de demanda para análise de viabilidade tecnológica",
+								"inicio": "19/03/2018",
+								"fim": "23/03/2018"
+							},
+							{
+								"id": "1.1.4.4",
+								"descricao": "Demanda para Infor aberta",
+								"inicio": "23/03/2018",
+								"fim": "23/03/2018"
+							},
+							{
+								"id": "1.1.4.5",
+								"descricao": "Pesquisa de ferramenta de mercado",
+								"inicio": "19/03/2018",
+								"fim": "18/05/2018"
+							},
+							{
+								"id": "1.1.4.6",
+								"descricao": "Análise de viabilidade de implantação do serviço",
+								"inicio": "21/05/2018",
+								"fim": "22/06/2018"
+							},
+							{
+								"id": "1.1.4.7",
+								"descricao": "Elaboração de relatório",
+								"inicio": "25/06/2018",
+								"fim": "27/07/2018"
+							},
+							{
+								"id": "1.1.4.8",
+								"descricao": "Relatório de análise e viabilidade para implantação da CPP concluído",
+								"inicio": "27/07/2018",
+								"fim": "27/07/2018"
+							}
+						]
+					},
+					{
+						"id": "1.1.5",
+						"nome": "Implantar atendimento via Chat",
+						"responsaveis": [
+							"GERAT"
+						],
+						"conducao": [{
+							"nome": "Kleber Carvalho",
+							"email": "kleber@previ.com.br"
+						}],
+						"intervenientes": [
+							"INFOR",
+							"GETHO",
+							"ASCOM",
+							"GERAI",
+							"GESAD"
+						],
+						"inicio": "02/01/2019",
+						"fim": "30/12/2020",
+						"status": 5,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EcR8UqDBmC1Mk1MGe1vzosEBF6SCE3ohYnvIPXzGmdEwmQ?e=tBXPxI",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+							"id": "1.1.5.1",
+							"descricao": "1.1.5 - Implantar atendimento via Chat",
+							"inicio": "02/01/2019",
+							"fim": "30/12/2020"
+						}]
+					}
+				],
+				"projetos": []
+			},
+			{
+				"id": "1.2",
+				"nome": "Identificar oportunidades e desenvolver soluções",
+				"responsaveis": [
+					"GERAT"
+				],
+				"indicadores": [{
+						"nome": "Número de parcerias do Clube de Benefícios orientadas a cada segmento",
+						"target": "4 novos/semestre",
+						"atual": "28 parceiros"
+					},
+					{
+						"nome": "% de participantes ativos que contribuem para a 2C em dezembro (esporádica)",
+						"target": "Entre 0,25% e 0,30%",
+						"atual": "0,23% (média últimos 3 anos)"
+					},
+					{
+						"nome": "Número de acessos à página do Clube de Benefícios",
+						"target": "média de 75 milhões",
+						"atual": "73000/mês"
+					}
+				],
+				"iniciativas": [{
+						"id": "1.2.1",
+						"nome": "Prospecção de novos parceiros para o Clube de Benefícios e formalização da parceria, orientados a cada segmento",
+						"conducao": [{
+								"nome": "Renata Sampaio",
+								"email": "renatasampaio@previ.com.br"
+							},
+							{
+								"nome": "Andrea Diniz",
+								"email": "andreadiniz@previ.com.br"
+							}
+						],
+						"responsaveis": [
+							"ASCOM"
+						],
+						"intervenientes": [
+							"Sem Intervenientes"
+						],
+						"inicio": "01/01/2018",
+						"fim": "29/06/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/ESBeqBwjtjlGiwOYQWu2IuwBHzJ16bXRQyj9tla42YsJOA?e=R2hFwI",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "1.2.1.1",
+								"descricao": "Prospecção e formalização vestuário",
+								"inicio": "01/01/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "1.2.1.2",
+								"descricao": "Prospecção e formalização beleza",
+								"inicio": "01/01/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "1.2.1.3",
+								"descricao": "Prospecção e formalização alta renda",
+								"inicio": "01/01/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "1.2.1.4",
+								"descricao": "Prospecção e formalização turismo",
+								"inicio": "01/01/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "1.2.1.5",
+								"descricao": "Quatro parcerias firmadas, com termo de adesão assinados pelas partes",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							}
+						]
+					},
+					{
+						"id": "1.2.2",
+						"nome": "Elaborar modelo de mediação de conflitos entre a Previ e associados voltado para mitigação do risco de judicializaçãoe dos impactos decorrentes das demandas judiciais",
+						"responsaveis": [
+							"OUVIR"
+						],
+						"conducao": [{
+							"nome": "Patricia Domingues",
+							"email": "patricialima@previ.com.br"
+						}],
+						"intervenientes": [
+							"ASJUR",
+							"GECOB"
+						],
+						"inicio": "02/01/2018",
+						"fim": "31/05/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EWPRhHAyvSxIginAOWR1nF8B_QzPOxRXE2nTr0TFiUlcZg?e=UxeTvE",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/05/2018"
+						],
+						"etapas": [{
+								"id": "1.2.2.1",
+								"descricao": "Contratação de consultoria",
+								"inicio": "02/01/2018",
+								"fim": "16/02/2018"
+							},
+							{
+								"id": "1.2.2.2",
+								"descricao": "Estudo técnico prévio sobre custos - processos jud, negociação de dívidas e cobranças extrajud",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "1.2.2.3",
+								"descricao": "Mapeamento e avaliação das oportunidades para mediação",
+								"inicio": "15/01/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.2.2.4",
+								"descricao": "Mapeamento de potenciais insumos por outras áreas",
+								"inicio": "01/03/2018",
+								"fim": "16/03/2018"
+							},
+							{
+								"id": "1.2.2.5",
+								"descricao": "Disseminação e refinamento do modelo em construção",
+								"inicio": "19/03/2018",
+								"fim": "21/03/2018"
+							},
+							{
+								"id": "1.2.2.6",
+								"descricao": "Benchmarking práticas nacionais e internacionais",
+								"inicio": "19/03/2018",
+								"fim": "24/04/2018"
+							},
+							{
+								"id": "1.2.2.7",
+								"descricao": "Identificação das ações que consolidarão a proposta para definição do modelo",
+								"inicio": "09/04/2018",
+								"fim": "24/04/2018"
+							},
+							{
+								"id": "1.2.2.8",
+								"descricao": "Avaliação de aderência da proposta do modelo de mediação",
+								"inicio": "30/04/2018",
+								"fim": "09/05/2018"
+							},
+							{
+								"id": "1.2.2.9",
+								"descricao": "Proposição para regras e diretrizes do modelo",
+								"inicio": "09/05/2018",
+								"fim": "17/05/2018"
+							},
+							{
+								"id": "1.2.2.10",
+								"descricao": "Submeter o modelo à validação da DE",
+								"inicio": "17/05/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "1.2.2.11",
+								"descricao": "Modelo de Mediação para Resolução de Conflitos estabelecido",
+								"inicio": "31/05/2018",
+								"fim": "31/05/2018"
+							}
+						]
+					},
+					{
+						"id": "1.2.3",
+						"nome": "Simulador Imposto de Renda com base nas contribuições",
+						"responsaveis": [
+							"GEVAR"
+						],
+						"conducao": [{
+							"nome": "Victor Sodré",
+							"email": "vsodre@previ.com.br"
+						}],
+						"intervenientes": [
+							"INFOR",
+							"ASCOM"
+						],
+						"inicio": "04/06/2018",
+						"fim": "28/12/2018",
+						"status": 5,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EUMKdthnhH9Nnj05t2pqmw8BzYQ1UiuehhQ4PdDuAMA3ew?e=GyDufe",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+								"id": "1.2.3.1",
+								"descricao": "Definição escopo e abertura de FSD",
+								"inicio": "04/06/2018",
+								"fim": "27/07/2018"
+							},
+							{
+								"id": "1.2.3.2",
+								"descricao": "Criar rotina de interface com o NAT - Sistema AR2",
+								"inicio": "06/08/2018",
+								"fim": "09/11/2018"
+							},
+							{
+								"id": "1.2.3.3",
+								"descricao": "Criar página WEB no site da Previ - Sistema NAT",
+								"inicio": "06/08/2018",
+								"fim": "09/11/2018"
+							},
+							{
+								"id": "1.2.3.4",
+								"descricao": "Simulador implantado",
+								"inicio": "12/11/2018",
+								"fim": "14/11/2018"
+							},
+							{
+								"id": "1.2.3.5",
+								"descricao": "Elaborar plano de comunicação",
+								"inicio": "04/06/2018",
+								"fim": "30/11/2018"
+							},
+							{
+								"id": "1.2.3.6",
+								"descricao": "Implementar plano de comunicação",
+								"inicio": "03/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.2.3.7",
+								"descricao": "Plano de comunicação implementado",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							}
+						]
+					},
+					{
+						"id": "1.2.4",
+						"nome": "Prospectar oportunidades e soluções com foco no fortalecimento da relação com os associados",
+						"responsaveis": [
+							"GERAT"
+						],
+						"conducao": [{
+							"nome": "Patricia Silva",
+							"email": "patricia.costa@previ.com.br"
+						}],
+						"intervenientes": [
+							"ASCOM"
+						],
+						"inicio": "23/01/2018",
+						"fim": "31/07/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EZQ0FqFlCJ1Bi_W9p8UkaVwBTpeLED3DdM8e89Wys0olvw?e=DVD2Wb",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "1.2.4.1",
+								"descricao": "Prospectar oportunidades com as áreas técnicas",
+								"inicio": "23/01/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.2.4.2",
+								"descricao": "Prospectar oportunidades com os Conselhos Consultivos",
+								"inicio": "19/02/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "1.2.4.3",
+								"descricao": "Prospectar oportunidades por meio dos desafios 2 e 4 lançados para o novo ciclo do Inova Previ*",
+								"inicio": "16/03/2018",
+								"fim": "20/04/2018"
+							},
+							{
+								"id": "1.2.4.4",
+								"descricao": "Seleção  e curadoria das oportunidades prospectadas pelo Inova Previ",
+								"inicio": "24/04/2018",
+								"fim": "18/05/2018"
+							},
+							{
+								"id": "1.2.4.5",
+								"descricao": "Avaliação preliminar das oportunidades prospectadas áreas técnicas e Conselhos",
+								"inicio": "21/05/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "1.2.4.6",
+								"descricao": "Validação das ideias prospectadas, definição das áreas responsáveis e encaminhamento",
+								"inicio": "02/07/2018",
+								"fim": "13/07/2018"
+							},
+							{
+								"id": "1.2.4.7",
+								"descricao": "Relatório com as oportunidades e soluções prospectadas e validadas",
+								"inicio": "31/07/2018",
+								"fim": "31/07/2018"
+							}
+						]
+					}
+				],
+				"projetos": []
+			},
+			{
+				"id": "1.3",
+				"nome": "Alinhar estratégia de comunicação com foco nas propostas de valor",
+				"responsaveis": [
+					"ASCOM"
+				],
+				"indicadores": [{
+						"nome": "% de satisfação da comunicação",
+						"target": "80% a 85%",
+						"atual": "80%"
+					},
+					{
+						"nome": "% de abertura das mensagens enviadas",
+						"target": "P1 - 25% PF - 15%",
+						"atual": "P1 - 20% PF - 10%"
+					}
+				],
+				"iniciativas": [{
+						"id": "1.3.1",
+						"nome": "Implementação de planos de comunicação por segmento de participantes, alinhados às propostas de valor",
+						"responsaveis": [
+							"ASCOM"
+						],
+						"conducao": [{
+							"nome": "Marcele Almeida",
+							"email": "marcele@previ.com.br"
+						}],
+						"intervenientes": [
+							"GESAD"
+						],
+						"inicio": "02/01/2018",
+						"fim": "30/05/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EVGJTF7x9qlOhN7XvU_WUuEBWZmBkSlgo-ZlvegeIEchXQ?e=jZw5Qc",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/04/2018"
+						],
+						"etapas": [{
+								"id": "1.3.1.1",
+								"descricao": "Elaboração do escopo de contratação",
+								"inicio": "02/01/2018",
+								"fim": "31/01/2018"
+							},
+							{
+								"id": "1.3.1.2",
+								"descricao": "Solicitação de propostas",
+								"inicio": "02/02/2018",
+								"fim": "23/02/2018"
+							},
+							{
+								"id": "1.3.1.3",
+								"descricao": "Habilitação técnica das propostas recebidas",
+								"inicio": "23/02/2018",
+								"fim": "22/03/2018"
+							},
+							{
+								"id": "1.3.1.4",
+								"descricao": "Negociação das propostas comerciais",
+								"inicio": "23/03/2018",
+								"fim": "27/03/2018"
+							},
+							{
+								"id": "1.3.1.5",
+								"descricao": "Aprovação no escalão competente",
+								"inicio": "28/03/2018",
+								"fim": "10/04/2018"
+							},
+							{
+								"id": "1.3.1.6",
+								"descricao": "Formalização da contratação",
+								"inicio": "11/04/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "1.3.1.7",
+								"descricao": "Contratação da agência de comunicação",
+								"inicio": "30/04/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "1.3.1.8",
+								"descricao": "Apresentar cronograma detalhado de elaboração e implementação do Plano de Comunicação Estratégica",
+								"inicio": "02/05/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "1.3.1.9",
+								"descricao": "Plano de comunicação implementado com ciência formalizada pelo Comitê Patrocinador",
+								"inicio": "30/05/2018",
+								"fim": "30/05/2018"
+							}
+						]
+					},
+					{
+						"id": "1.3.2",
+						"nome": "Reformulação do site Previ",
+						"responsaveis": [
+							"ASCOM"
+						],
+						"conducao": [{
+							"nome": "Katia Belarmino",
+							"email": "katiabelarmino@previ.com.br"
+						}],
+						"intervenientes": [
+							"INFOR",
+							"GESAD"
+						],
+						"inicio": "02/01/2018",
+						"fim": "26/07/2019",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/Ea7wNvIgGolNnZXykH9Iz6cBCzqFwDM-ch0b3ND6Biv-Ug?e=Ir7Egp",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/04/2018"
+						],
+						"etapas": [{
+								"id": "1.3.2.1",
+								"descricao": "Pesquisa de empresas para participar da tomada de preços",
+								"inicio": "02/01/2018",
+								"fim": "19/01/2018"
+							},
+							{
+								"id": "1.3.2.2",
+								"descricao": "Elaboração de documento para concorrência (escopo, apresentação)",
+								"inicio": "22/01/2018",
+								"fim": "02/02/2018"
+							},
+							{
+								"id": "1.3.2.3",
+								"descricao": "Solicitação de propostas",
+								"inicio": "02/02/2018",
+								"fim": "19/02/2018"
+							},
+							{
+								"id": "1.3.2.4",
+								"descricao": "Habilitação técnica das propostas recebidas",
+								"inicio": "19/02/2018",
+								"fim": "09/03/2018"
+							},
+							{
+								"id": "1.3.2.5",
+								"descricao": "Negociação das propostas comerciais",
+								"inicio": "12/03/2018",
+								"fim": "19/03/2018"
+							},
+							{
+								"id": "1.3.2.6",
+								"descricao": "Aprovação no escalão competente",
+								"inicio": "19/03/2018",
+								"fim": "28/03/2018"
+							},
+							{
+								"id": "1.3.2.7",
+								"descricao": "Formalização da contratação",
+								"inicio": "20/03/2018",
+								"fim": "18/04/2018"
+							},
+							{
+								"id": "1.3.2.8",
+								"descricao": "Fornecedor contratado",
+								"inicio": "30/04/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "1.3.2.9",
+								"descricao": "Análise do formato atual dos serviços para revisão e definição com áreas gestoras",
+								"inicio": "01/05/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "1.3.2.10",
+								"descricao": "Revisão dos conteúdos e estrutura da área aberta",
+								"inicio": "01/06/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "1.3.2.11",
+								"descricao": "Proposta de mapa de arquitetura para área aberta",
+								"inicio": "01/08/2018",
+								"fim": "24/08/2018"
+							},
+							{
+								"id": "1.3.2.12",
+								"descricao": "Proposta de mapa de arquitetura para área restrita",
+								"inicio": "27/08/2018",
+								"fim": "20/09/2018"
+							},
+							{
+								"id": "1.3.2.13",
+								"descricao": "Abertura de demanda para INFOR",
+								"inicio": "01/08/2018",
+								"fim": "02/08/2018"
+							},
+							{
+								"id": "1.3.2.14",
+								"descricao": "Desenvolvimento de APIs",
+								"inicio": "06/08/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.3.2.15",
+								"descricao": "APIs - desenvolvimento concluído",
+								"inicio": "31/12/2018",
+								"fim": "31/12/2018"
+							},
+							{
+								"id": "1.3.2.16",
+								"descricao": "Layout e desenvolvimento",
+								"inicio": "01/11/2018",
+								"fim": "26/07/2019"
+							},
+							{
+								"id": "1.3.2.17",
+								"descricao": "Site Reformulado",
+								"inicio": "26/07/2019",
+								"fim": "26/07/2019"
+							}
+						]
+					},
+					{
+						"id": "1.3.3",
+						"nome": "Prospecção de Plataforma CRM alinhada à segmentação dos participantes",
+						"responsaveis": [
+							"ASCOM"
+						],
+						"conducao": [{
+							"nome": "Luís Omena",
+							"email": "luisomena@previ.com.br"
+						}],
+						"intervenientes": [
+							"INFOR",
+							"GERAT"
+						],
+						"inicio": "02/01/2018",
+						"fim": "28/02/2019",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EUx2u-hRX6BAtXDGHnfXNU4BBaSvvEcKeI3Uh_g521KWFg?e=hOs98j",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "1.3.3.1",
+								"descricao": "Identificar requisitos discriminantes para a seleção de dados que irão compor a base de informações do CRM da Previ",
+								"inicio": "02/01/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "1.3.3.2",
+								"descricao": "Identificar potenciais Gaps de TI relacionados ao sucesso da implementação de Plataforma CRM",
+								"inicio": "02/04/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "1.3.3.3",
+								"descricao": "Potenciais gaps de TI identificados",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "1.3.3.4",
+								"descricao": "Prospectar potenciais fornecedores de sistemas de CRM no mercado",
+								"inicio": "02/07/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "1.3.3.5",
+								"descricao": "Elaborar estimativa de custo e prazo para implantação",
+								"inicio": "01/10/2018",
+								"fim": "31/10/2018"
+							},
+							{
+								"id": "1.3.3.6",
+								"descricao": "Validar a efetividade das propostas apresentadas em parceria com as áreas envolvidas",
+								"inicio": "01/11/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.3.3.7",
+								"descricao": "Efetividade das propostas validadas",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.3.3.8",
+								"descricao": "Elaboração do escopo em linha com Plataforma de Seguridade e Rodmap de TI - Proposta de Aquisição",
+								"inicio": "02/01/2019",
+								"fim": "28/02/2019"
+							},
+							{
+								"id": "1.3.3.9",
+								"descricao": "Proposta de aquisição da Plataforma de CRM",
+								"inicio": "28/02/2019",
+								"fim": "28/02/2019"
+							}
+						]
+					}
+				],
+				"projetos": []
+			},
+			{
+				"id": "1.4",
+				"nome": "Promover educação financeira e previdenciária",
+				"responsaveis": [
+					"GERAT"
+				],
+				"indicadores": [{
+						"nome": "Qtde de funcionários treinados nos cursos disponíveis na UniBB",
+						"target": "12129 (até dez/2018)",
+						"atual": "8602 (ago/2017)"
+					},
+					{
+						"nome": "Contribuições 2B até o teto",
+						"target": "Entre 88,5% e 90%",
+						"atual": "89,60%"
+					},
+					{
+						"nome": "% de participantes ativos que contribuíram para a 2C mensal",
+						"target": "Entre 2,0% e 2,5%",
+						"atual": "1,79% (média últimos 3 anos)"
+					},
+					{
+						"nome": "% de incremento das adesões à CAPEC",
+						"target": "Entre 0,7% e 0,8% até dez/2018",
+						"atual": "0,7% (jan a ago/17)"
+					},
+					{
+						"nome": "Qtde eventos Previ Itinerante",
+						"target": "15 eventos",
+						"atual": "17 eventos"
+					},
+					{
+						"nome": "Qtde cursos/ palestras realizados",
+						"target": "15 cursos/palestras",
+						"atual": "11 cursos (ago/17)"
+					}
+				],
+				"iniciativas": [{
+						"id": "1.4.1",
+						"nome": "Criar novas peças de educação financeira e previdenciária e incentivar a realização da trilha",
+						"responsaveis": [
+							"GERAT"
+						],
+						"conducao": [{
+							"nome": "Gabriel Araujo",
+							"email": "gabrielaraujo@previ.com.br"
+						}],
+						"intervenientes": [
+							"ASCOM",
+							"GETHO",
+							"RISCO",
+							"GECOB",
+							"OUVIR",
+							"ASJUR",
+							"GESOP",
+							"GESAD"
+						],
+						"inicio": "02/01/2018",
+						"fim": "30/11/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EVPhrwkpw3VMkGIbfAJ5Qn8BkL4CByZ20VU5aNWybv3XMQ?e=Gb8Doh",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/02/2018"
+						],
+						"etapas": [{
+								"id": "1.4.1.1",
+								"descricao": "Avaliar a inclusão da trilha Educação Previdenciária como pré-requisito para concorrências/funções na Previ",
+								"inicio": "02/01/2018",
+								"fim": "31/01/2018"
+							},
+							{
+								"id": "1.4.1.2",
+								"descricao": "Contratação de empresa para a elaboração das peças (Escopo de contratação, Autorização e Contrato)",
+								"inicio": "02/01/2018",
+								"fim": "16/02/2018"
+							},
+							{
+								"id": "1.4.1.3",
+								"descricao": "Elaboração de conteúdo",
+								"inicio": "02/01/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.4.1.4",
+								"descricao": "Conteúdo elaborado",
+								"inicio": "28/02/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.4.1.5",
+								"descricao": "Análise de conteúdo (aprofundamento)",
+								"inicio": "01/03/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "1.4.1.6",
+								"descricao": "Propostas de Plano de Aula de cada uma das 4 peças",
+								"inicio": "02/04/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "1.4.1.7",
+								"descricao": "Construção dos roteiros das peças",
+								"inicio": "02/05/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "1.4.1.8",
+								"descricao": "Validação de Roteiros",
+								"inicio": "01/08/2018",
+								"fim": "31/08/2018"
+							},
+							{
+								"id": "1.4.1.9",
+								"descricao": "Roteiros validados",
+								"inicio": "31/08/2018",
+								"fim": "31/08/2018"
+							},
+							{
+								"id": "1.4.1.10",
+								"descricao": "Produção final das peças",
+								"inicio": "03/09/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "1.4.1.11",
+								"descricao": "Homologação final do link",
+								"inicio": "01/10/2018",
+								"fim": "31/10/2018"
+							},
+							{
+								"id": "1.4.1.12",
+								"descricao": "Envio de ordem de serviço para o BB",
+								"inicio": "01/11/2018",
+								"fim": "06/11/2018"
+							},
+							{
+								"id": "1.4.1.13",
+								"descricao": "Envio de ordem de serviço do BB para a empresa contratada",
+								"inicio": "06/11/2018",
+								"fim": "09/11/2018"
+							},
+							{
+								"id": "1.4.1.14",
+								"descricao": "Publicação na UNIBB",
+								"inicio": "12/11/2018",
+								"fim": "16/11/2018"
+							},
+							{
+								"id": "1.4.1.15",
+								"descricao": "Publicação de 4 novas peças",
+								"inicio": "30/11/2018",
+								"fim": "30/11/2018"
+							},
+							{
+								"id": "1.4.1.16",
+								"descricao": "Elaborar plano de comunicação",
+								"inicio": "03/09/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "1.4.1.17",
+								"descricao": "Executar ações de comunicação",
+								"inicio": "01/11/2018",
+								"fim": "30/11/2018"
+							},
+							{
+								"id": "1.4.1.18",
+								"descricao": "Plano de comunicação executado",
+								"inicio": "30/11/2018",
+								"fim": "30/11/2018"
+							}
+						]
+					},
+					{
+						"id": "1.4.2",
+						"nome": "Promover cursos e palestras sobre os planos",
+						"responsaveis": [
+							"GERAT"
+						],
+						"conducao": [{
+							"nome": "Leonardo Alves",
+							"email": "leonardo.alves@previ.com.br"
+						}],
+						"intervenientes": [
+							"GESAD",
+							"GETHO"
+						],
+						"inicio": "02/01/2018",
+						"fim": "15/01/2019",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EcWFbXlux_pBj8K-nzbuuzwB_X7SZjMhiAochB3y3eF9PQ?e=0ginzc",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "1.4.2.1",
+								"descricao": "Elaboração de escopos e prospecção de fornecedores para consultoria",
+								"inicio": "02/05/2018",
+								"fim": "14/05/2018"
+							},
+							{
+								"id": "1.4.2.2",
+								"descricao": "Contratação de consultoria para formação de educadores",
+								"inicio": "15/05/2018",
+								"fim": "14/06/2018"
+							},
+							{
+								"id": "1.4.2.3",
+								"descricao": "Realizar formação de educadores do Curso Introdução à Previ",
+								"inicio": "15/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "1.4.2.4",
+								"descricao": "Formação de educadores do Curso Introdução à Previ realizada",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "1.4.2.5",
+								"descricao": "Definir locais para realização de cursos e palestras por semestre",
+								"inicio": "02/01/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.4.2.6",
+								"descricao": "Definir locais para realização de cursos e palestras por semestre",
+								"inicio": "02/07/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "1.4.2.7",
+								"descricao": "Realização dos cursos e palestras",
+								"inicio": "01/03/2018",
+								"fim": "20/12/2018"
+							},
+							{
+								"id": "1.4.2.8",
+								"descricao": "15 cursos/palestras realizados",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.4.2.9",
+								"descricao": "Check point trimestral sobre cursos/palestras realizados",
+								"inicio": "15/03/2018",
+								"fim": "15/01/2019"
+							}
+						]
+					},
+					{
+						"id": "1.4.3",
+						"nome": "Previ Itinerante",
+						"responsaveis": [
+							"GERAT"
+						],
+						"conducao": [{
+							"nome": "Gustavo Lisboa",
+							"email": "gustavo.rocha@previ.com.br"
+						}],
+						"intervenientes": [
+							"ASCOM",
+							"GEVAR"
+						],
+						"inicio": "02/01/2018",
+						"fim": "15/01/2019",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/Efho66A5bgFDrl27AnEdFHQBeQ91_EFoHBCWwNXD4RdIvw?e=0WgcL9",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/03/2018"
+						],
+						"etapas": [{
+								"id": "1.4.3.1",
+								"descricao": "Planejar estratégia de atuação",
+								"inicio": "02/01/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.4.3.2",
+								"descricao": "Definir calendário de atuação",
+								"inicio": "01/02/2018",
+								"fim": "15/03/2018"
+							},
+							{
+								"id": "1.4.3.3",
+								"descricao": "Calendário de atuação definido",
+								"inicio": "15/03/2018",
+								"fim": "15/03/2018"
+							},
+							{
+								"id": "1.4.3.4",
+								"descricao": "Realização dos eventos",
+								"inicio": "15/03/2018",
+								"fim": "21/12/2018"
+							},
+							{
+								"id": "1.4.3.5",
+								"descricao": "15 eventos realizados",
+								"inicio": "21/12/2018",
+								"fim": "21/12/2018"
+							},
+							{
+								"id": "1.4.3.6",
+								"descricao": "Check point trimestral",
+								"inicio": "15/03/2018",
+								"fim": "15/01/2019"
+							}
+						]
+					},
+					{
+						"id": "1.4.4",
+						"nome": "Criar Game Virtual para o Previ Futuro",
+						"responsaveis": [
+							"GERAT",
+							"GEPOC"
+						],
+						"conducao": [{
+								"nome": "Ricardo Martins",
+								"email": "rbastos@previ.com.br"
+							},
+							{
+								"nome": "Rodrigo da Costa",
+								"email": "rodrigoribeiro@previ.com.br"
+							},
+							{
+								"nome": "Gabriel Araujo",
+								"email": "gabrielaraujo@previ.com.br"
+							}
+						],
+						"intervenientes": [
+							"ASCOM",
+							"GEVAR",
+							"GECAT",
+							"GEBEN",
+							"GESAD"
+						],
+						"inicio": "02/07/2018",
+						"fim": "28/06/2019",
+						"status": 5,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EYKFpCAWcw5No17ZrSLLRTABXmh5UTojvcPr1reChQkGPw?e=ljEhZU",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+								"id": "1.4.4.1",
+								"descricao": "Elaboração de escopo de contratação",
+								"inicio": "02/07/2018",
+								"fim": "10/08/2018"
+							},
+							{
+								"id": "1.4.4.2",
+								"descricao": "Escopo de contratação elaborado pelas áreas",
+								"inicio": "10/08/2018",
+								"fim": "10/08/2018"
+							},
+							{
+								"id": "1.4.4.3",
+								"descricao": "Avaliação de impacto de TI com base no escopo do Game - Etapa dependerá da definição sobre integração com sistemas internos",
+								"inicio": "13/08/2018",
+								"fim": "31/08/2018"
+							},
+							{
+								"id": "1.4.4.4",
+								"descricao": "Prospecção de análise de fornecedores",
+								"inicio": "03/09/2018",
+								"fim": "06/09/2018"
+							},
+							{
+								"id": "1.4.4.5",
+								"descricao": "Envio de propostas pelos fornecedores",
+								"inicio": "10/09/2018",
+								"fim": "18/09/2018"
+							},
+							{
+								"id": "1.4.4.6",
+								"descricao": "Recepção/Análise prévia",
+								"inicio": "19/09/2018",
+								"fim": "20/09/2018"
+							},
+							{
+								"id": "1.4.4.7",
+								"descricao": "Análise técnica de propostas recebidas",
+								"inicio": "21/09/2018",
+								"fim": "05/10/2018"
+							},
+							{
+								"id": "1.4.4.8",
+								"descricao": "Novo convite com escopo de contratação ajustado",
+								"inicio": "08/10/2018",
+								"fim": "09/10/2018"
+							},
+							{
+								"id": "1.4.4.9",
+								"descricao": "Envio de novas propostas pelos fornecedores",
+								"inicio": "10/10/2018",
+								"fim": "19/10/2018"
+							},
+							{
+								"id": "1.4.4.10",
+								"descricao": "Análise técnica de propostas ajustadas recebidas",
+								"inicio": "22/10/2018",
+								"fim": "09/11/2018"
+							},
+							{
+								"id": "1.4.4.11",
+								"descricao": "Análise e negociação comercial",
+								"inicio": "12/11/2018",
+								"fim": "21/11/2018"
+							},
+							{
+								"id": "1.4.4.12",
+								"descricao": "Elaboração de nota para autorização de contratação",
+								"inicio": "22/11/2018",
+								"fim": "26/11/2018"
+							},
+							{
+								"id": "1.4.4.13",
+								"descricao": "Contratação",
+								"inicio": "26/11/2018",
+								"fim": "20/12/2018"
+							},
+							{
+								"id": "1.4.4.14",
+								"descricao": "Fornecedor contratado",
+								"inicio": "20/12/2018",
+								"fim": "20/12/2018"
+							},
+							{
+								"id": "1.4.4.15",
+								"descricao": "Elaboração de conteúdos base para o game",
+								"inicio": "03/12/2018",
+								"fim": "28/02/2019"
+							},
+							{
+								"id": "1.4.4.16",
+								"descricao": "Elaboração de versão do Game",
+								"inicio": "28/02/2019",
+								"fim": "12/04/2019"
+							},
+							{
+								"id": "1.4.4.17",
+								"descricao": "Testes na versão do Game",
+								"inicio": "15/04/2019",
+								"fim": "14/05/2019"
+							},
+							{
+								"id": "1.4.4.18",
+								"descricao": "Apresentação da versão Teste do Game ao Comitê Patrocinador",
+								"inicio": "16/05/2019",
+								"fim": "31/05/2019"
+							},
+							{
+								"id": "1.4.4.19",
+								"descricao": "Homologação final do Game",
+								"inicio": "03/06/2019",
+								"fim": "14/06/2019"
+							},
+							{
+								"id": "1.4.4.20",
+								"descricao": "Disponibilização do Game nos canais escolhidos",
+								"inicio": "17/06/2019",
+								"fim": "18/06/2019"
+							},
+							{
+								"id": "1.4.4.21",
+								"descricao": "Game disponibilizado",
+								"inicio": "18/06/2019",
+								"fim": "18/06/2019"
+							},
+							{
+								"id": "1.4.4.22",
+								"descricao": "Elaboração do Plano de Comunicação",
+								"inicio": "15/04/2019",
+								"fim": "30/04/2019"
+							},
+							{
+								"id": "1.4.4.23",
+								"descricao": "Execução das ações de comunicação",
+								"inicio": "18/06/2019",
+								"fim": "28/06/2019"
+							}
+						]
+					},
+					{
+						"id": "1.4.5",
+						"nome": "Incentivar contribuições 2B e 2C",
+						"responsaveis": [
+							"GEVAR"
+						],
+						"conducao": [{
+							"nome": "Victor Sodré",
+							"email": "vsodre@previ.com.br"
+						}],
+						"intervenientes": [
+							"GERAT",
+							"ASCOM",
+							"GESAD"
+						],
+						"inicio": "02/01/2018",
+						"fim": "30/01/2019",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EUDBlevJ_JtPpWfrjceXiPoBbFZjvfS73y76Md_we6GDUw?e=Jnwiy4",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/02/2018"
+						],
+						"etapas": [{
+								"id": "1.4.5.1",
+								"descricao": "Definição do público alvo para o contato ativo pela Gerat",
+								"inicio": "02/01/2018",
+								"fim": "15/01/2018"
+							},
+							{
+								"id": "1.4.5.2",
+								"descricao": "Definição da capacidade de atendimento ativo para a campanha",
+								"inicio": "16/01/2018",
+								"fim": "26/01/2018"
+							},
+							{
+								"id": "1.4.5.3",
+								"descricao": "Verificar a necessidade de revisão da estratégia de abordagem",
+								"inicio": "29/01/2018",
+								"fim": "02/02/2018"
+							},
+							{
+								"id": "1.4.5.4",
+								"descricao": "Equalizar abordagem com os funcionários que vão realizar o contato",
+								"inicio": "05/02/2018",
+								"fim": "15/02/2018"
+							},
+							{
+								"id": "1.4.5.5",
+								"descricao": "Realizar contato",
+								"inicio": "16/02/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.4.5.6",
+								"descricao": "Primeiro check point",
+								"inicio": "02/04/2018",
+								"fim": "16/04/2018"
+							},
+							{
+								"id": "1.4.5.7",
+								"descricao": "Segundo check point",
+								"inicio": "02/07/2018",
+								"fim": "16/07/2018"
+							},
+							{
+								"id": "1.4.5.8",
+								"descricao": "Terceiro check point",
+								"inicio": "01/10/2018",
+								"fim": "15/10/2018"
+							},
+							{
+								"id": "1.4.5.9",
+								"descricao": "Quarto check point",
+								"inicio": "02/01/2019",
+								"fim": "15/01/2019"
+							},
+							{
+								"id": "1.4.5.10",
+								"descricao": "Elaboração de pesquisa com público interno",
+								"inicio": "02/01/2018",
+								"fim": "19/01/2018"
+							},
+							{
+								"id": "1.4.5.11",
+								"descricao": "Realização da pesquisa",
+								"inicio": "22/01/2018",
+								"fim": "31/01/2018"
+							},
+							{
+								"id": "1.4.5.12",
+								"descricao": "Contratar agência de publicidade para desenvolvimento do material",
+								"inicio": "02/01/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.4.5.13",
+								"descricao": "Agência de publicidade contratada",
+								"inicio": "28/02/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.4.5.14",
+								"descricao": "Criação e produção dos materiais",
+								"inicio": "22/02/2018",
+								"fim": "10/05/2018"
+							},
+							{
+								"id": "1.4.5.15",
+								"descricao": "Implementar campanhas a partir da adequação da comunicação à proposta de valor",
+								"inicio": "02/04/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.4.5.16",
+								"descricao": "Elaborar plano de comunicação 2B",
+								"inicio": "01/02/2018",
+								"fim": "19/02/2018"
+							},
+							{
+								"id": "1.4.5.17",
+								"descricao": "Implementar ações do plano de comunicação 2B",
+								"inicio": "20/02/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.4.5.18",
+								"descricao": "Elaborar plano de comunicação 2C",
+								"inicio": "01/02/2018",
+								"fim": "19/02/2018"
+							},
+							{
+								"id": "1.4.5.19",
+								"descricao": "Implementar ações do plano de comunicação 2C",
+								"inicio": "20/02/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.4.5.20",
+								"descricao": "Plano de comunicação 2B e 2C elaborados",
+								"inicio": "28/02/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.4.5.21",
+								"descricao": "Relatório 1º semestre de acompanhamento das ações",
+								"inicio": "23/07/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "1.4.5.22",
+								"descricao": "Ações de promoção das contribuições 2B e 2C realizadas",
+								"inicio": "31/07/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "1.4.5.23",
+								"descricao": "Relatório 2º semestre de acompanhamento das ações",
+								"inicio": "16/01/2019",
+								"fim": "30/01/2019"
+							},
+							{
+								"id": "1.4.5.24",
+								"descricao": "Ações de promoção das contribuições 2B e 2C realizadas",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							}
+						]
+					},
+					{
+						"id": "1.4.6",
+						"nome": "Incentivar adesão à CAPEC",
+						"responsaveis": [
+							"GEVAR"
+						],
+						"conducao": [{
+							"nome": "Virginia Rodrigues",
+							"email": "virginia@previ.com.br"
+						}],
+						"intervenientes": [
+							"GERAT",
+							"ASCOM",
+							"GESAD"
+						],
+						"inicio": "02/01/2018",
+						"fim": "31/01/2019",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/Ea0li79dF8lOnIO9FU1gAk8BMwwhqo_2oRDGLpwcJaTe1Q?e=ryWcgM",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/02/2018"
+						],
+						"etapas": [{
+								"id": "1.4.6.1",
+								"descricao": "Definir como o público-alvo será segmentado",
+								"inicio": "02/01/2018",
+								"fim": "19/01/2018"
+							},
+							{
+								"id": "1.4.6.2",
+								"descricao": "Apresentar resultados da segmentação",
+								"inicio": "22/01/2018",
+								"fim": "02/02/2018"
+							},
+							{
+								"id": "1.4.6.3",
+								"descricao": "Definir os melhores canais de comunicação e ações para cada segmento",
+								"inicio": "29/01/2018",
+								"fim": "02/02/2018"
+							},
+							{
+								"id": "1.4.6.4",
+								"descricao": "Contratar agência de publicidade para desenvolvimento do material",
+								"inicio": "02/01/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.4.6.5",
+								"descricao": "Agência de publicidade contratada",
+								"inicio": "28/02/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "1.4.6.6",
+								"descricao": "Criação e produção dos materiais",
+								"inicio": "22/02/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "1.4.6.7",
+								"descricao": "Implementar campanhas a partir da adequação da comunicação á proposta de valor",
+								"inicio": "02/04/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.4.6.8",
+								"descricao": "Enviar aos não participantes da Capec material promocional incentivando a adesão",
+								"inicio": "05/02/2018",
+								"fim": "09/03/2018"
+							},
+							{
+								"id": "1.4.6.9",
+								"descricao": "Avaliar o retorno de cada uma das campanhas por segmento e canal",
+								"inicio": "02/05/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.4.6.10",
+								"descricao": "Ações de captação à Capec realizadas",
+								"inicio": "30/07/2018",
+								"fim": "30/07/2018"
+							},
+							{
+								"id": "1.4.6.11",
+								"descricao": "Realizar check points para avaliar a necessidade de redefinir as ações - 1º semestre",
+								"inicio": "16/07/2018",
+								"fim": "30/07/2018"
+							},
+							{
+								"id": "1.4.6.12",
+								"descricao": "Ações de captação à Capec realizadas",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "1.4.6.13",
+								"descricao": "Realizar check points para avaliar a necessidade de redefinir as ações - 2º semestre",
+								"inicio": "16/01/2019",
+								"fim": "31/01/2019"
+							}
+						]
+					},
+					{
+						"id": "1.4.7",
+						"nome": "Divulgar os fatores que determinam o valor do benefício do Previ Futuro",
+						"responsaveis": [
+							"GEVAR"
+						],
+						"conducao": [{
+							"nome": "Adriana Norival",
+							"email": "anorival@previ.com.br"
+						}],
+						"intervenientes": [
+							"GETEC",
+							"GECAT",
+							"ASCOM",
+							"GERAT",
+							"GEPOC"
+						],
+						"inicio": "02/01/2018",
+						"fim": "27/07/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EUXQXz0I2_pKlomznxFxHDkBxJ07B39zMX06byHAfwTLmg?e=xp1PJL",
+							"descricao": "Escopo de Alto Nível"
+						}],
+						"entregasAtb1": [
+							"01/02/2018"
+						],
+						"etapas": [{
+								"id": "1.4.7.1",
+								"descricao": "Definição de pautas",
+								"inicio": "02/01/2018",
+								"fim": "02/02/2018"
+							},
+							{
+								"id": "1.4.7.2",
+								"descricao": "Pautas definidas",
+								"inicio": "02/02/2018",
+								"fim": "02/02/2018"
+							},
+							{
+								"id": "1.4.7.3",
+								"descricao": "Elaborar plano de comunicação",
+								"inicio": "05/02/2018",
+								"fim": "09/03/2018"
+							},
+							{
+								"id": "1.4.7.4",
+								"descricao": "Implementar ações do plano de comunicação",
+								"inicio": "12/03/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "1.4.7.5",
+								"descricao": "Elaborar relatório de conclusão das ações do plano de comunicação",
+								"inicio": "02/07/2018",
+								"fim": "27/07/2018"
+							},
+							{
+								"id": "1.4.7.6",
+								"descricao": "Plano de Comunicação realizado",
+								"inicio": "27/07/2018",
+								"fim": "27/07/2018"
+							}
+						]
+					}
+				],
+				"projetos": []
+			}
+		]
+	},
+	{
+		"id": 2,
+		"cor": "teal",
+		"nome": "Gestão eficiente e eficaz",
+		"responsaveis": [
+			"DIPLA",
+			"DIRAD",
+			"PRESI"
+		],
+		"indicadorMacro": {
+			"nome": "Despesas administrativas/Sustentabilidade do PGA a 3,5%",
+			"target": "100,00%",
+			"atual": null
+		},
+		"diretrizes": [{
+				"id": "2.1",
+				"nome": "Garantir a sustentabilidade do PGA",
+				"responsaveis": [
+					"GEPOC"
+				],
+				"indicadores": [{
+					"nome": "Despesas administrativas/Sustentabilidade do PGA a 3,5%",
+					"target": "100%",
+					"atual": "105%"
+				}],
+				"iniciativas": [{
+						"id": "2.1.1",
+						"nome": "Aprimorar novo modelo de Orçamento",
+						"responsaveis": [
+							"GEPOC"
+						],
+						"intervenientes": [
+							"GECOT"
+						],
+						"conducao": [
+							"EPROJ"
+						],
+						"inicio": "01/09/2017",
+						"fim": "18/04/2018",
+						"status": 1,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EQUjM14ldiZPqbNTiombEAYBDl9P7vXo33oXwEGGGfz30g?e=WO6OmD",
+							"descricao": "Escopo de Alto Nível 2.1.1"
+						}],
+						"entregasAtb1": [
+							"01/03/2018"
+						],
+						"etapas": [{
+								"id": "2.1.1.1",
+								"descricao": "Apurar lições aprendidas da 1ª aplicação do novo modelo de orçamento",
+								"inicio": "01/09/2017",
+								"fim": "31/01/2018"
+							},
+							{
+								"id": "2.1.1.2",
+								"descricao": "Verificar atendimento às recomendações da Auditoria",
+								"inicio": "01/02/2018",
+								"fim": "16/02/2018"
+							},
+							{
+								"id": "2.1.1.3",
+								"descricao": "Validar sugestões de aprimoramento no Comitê Patrocinador",
+								"inicio": "01/02/2018",
+								"fim": "08/03/2018"
+							},
+							{
+								"id": "2.1.1.4",
+								"descricao": "Pautar Nota para aprovar o aprimoramento do novo modelo de orçamento",
+								"inicio": "20/03/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "2.1.1.5",
+								"descricao": "Nota Técnica apreciada pela Diretoria Executiva",
+								"inicio": "18/04/2018",
+								"fim": "18/04/2018"
+							}
+						]
+					},
+					{
+						"id": "2.1.2",
+						"nome": "Implantar Revisão do Acompanhamento Orçamentário",
+						"responsaveis": [
+							"GECOT"
+						],
+						"conducao": [{
+								"nome": "Alexandre Pereira",
+								"email": "alepereiral@previ.com.br"
+							},
+							{
+								"nome": "Alan Magalhaes",
+								"email": "alanmagalhaes@previ.com.br"
+							}
+						],
+						"intervenientes": [
+							"GEPOC",
+							"INFOR"
+						],
+						"inicio": "02/04/2018",
+						"fim": "28/12/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EdQRdWs1sv9EjpdxrtQKJ6oB_MRndTvHGv2ge3WIBbYWcw?e=jIV6IP",
+							"descricao": "Escopo de Alto Nível 2.1.2"
+						}],
+						"entregasAtb1": [
+							"01/04/2018"
+						],
+						"etapas": [{
+								"id": "2.1.2.1",
+								"descricao": "Propor novo modelo de acompanhamento que não dependam de TI",
+								"inicio": "02/04/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "2.1.2.2",
+								"descricao": "Novo modelo de acompanhamento que não dependa de TI",
+								"inicio": "30/04/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "2.1.2.3",
+								"descricao": "Entrega de proposta de acompanhamento revisto (1S 2018) - que não dependam de TI",
+								"inicio": "02/07/2018",
+								"fim": "31/08/2018"
+							},
+							{
+								"id": "2.1.2.4",
+								"descricao": "Diagnóstico de oportunidades de aprimoramento do sistema Orçamento",
+								"inicio": "03/09/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "2.1.2.5",
+								"descricao": "Propor manutenção no sistema Orçamento",
+								"inicio": "01/10/2018",
+								"fim": "31/10/2018"
+							},
+							{
+								"id": "2.1.2.6",
+								"descricao": "Sistema ORC ajustado (limitado às USTIs aprovadas/orçadas)",
+								"inicio": "01/11/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.1.2.7",
+								"descricao": "Sistema ORC ajustado",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							}
+						]
+					},
+					{
+						"id": "2.1.3",
+						"nome": "Revisão de metodologia de projeção do PGA",
+						"responsaveis": [
+							"RISCO"
+						],
+						"conducao": [{
+							"nome": "Carolina Mussi",
+							"email": "carolmussi@previ.com.br"
+						}],
+						"intervenientes": [
+							"GEPOC",
+							"GECOT",
+							"GEVAR",
+							"GECAT"
+						],
+						"inicio": "08/01/2018",
+						"fim": "31/07/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EQte6gO2GF9LhBwV2A7NArgB8qHM5D1Mbd4REBr2SdBg0g?e=RMfIKL",
+							"descricao": "Escopo de Alto Nível 2.1.3"
+						}],
+						"entregasAtb1": [
+							"01/05/2018"
+						],
+						"etapas": [{
+								"id": "2.1.3.1",
+								"descricao": "Definição do horizonte de simulação",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.10",
+								"descricao": "Levantamento da aplicabilidade das novas fontes de custeio",
+								"inicio": "10/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.11",
+								"descricao": "Revisão das taxas de carregamento",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.12",
+								"descricao": "Proposta de novas fontes de custeio",
+								"inicio": "17/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.13",
+								"descricao": "Impactos do orçamento no Fundo Administrativo (Solvência do plano)",
+								"inicio": "05/02/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.14",
+								"descricao": "Levantamento da exequibilidade das simulações",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.15",
+								"descricao": "Desenho da árvore de simulações (combinações desejadas)",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.16",
+								"descricao": "Solicitação de cenários desejados",
+								"inicio": "09/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.17",
+								"descricao": "Solicitação de fluxo de projetos e impactos",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.18",
+								"descricao": "Solicitação de previsão de orçamento de despesas",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.19",
+								"descricao": "Levantamento das necessidades de ajustes",
+								"inicio": "15/02/2018",
+								"fim": "25/05/2018"
+							},
+							{
+								"id": "2.1.3.2",
+								"descricao": "Definição da regra do saldo final do fundo administrativo",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.20",
+								"descricao": "Implantação dos ajustes nas planilhas",
+								"inicio": "15/02/2018",
+								"fim": "25/05/2018"
+							},
+							{
+								"id": "2.1.3.21",
+								"descricao": "Testes de homologação",
+								"inicio": "03/05/2018",
+								"fim": "25/05/2018"
+							},
+							{
+								"id": "2.1.3.22",
+								"descricao": "Ferramenta ajustada e validada pelo Executivo Risco",
+								"inicio": "25/05/2018",
+								"fim": "25/05/2018"
+							},
+							{
+								"id": "2.1.3.23",
+								"descricao": "Impostação de dados e cenários da ferramenta",
+								"inicio": "28/05/2018",
+								"fim": "22/06/2018"
+							},
+							{
+								"id": "2.1.3.24",
+								"descricao": "Aplicação das simulações",
+								"inicio": "28/05/2018",
+								"fim": "22/06/2018"
+							},
+							{
+								"id": "2.1.3.25",
+								"descricao": "Geração de gráficos e resultados",
+								"inicio": "28/05/2018",
+								"fim": "22/06/2018"
+							},
+							{
+								"id": "2.1.3.26",
+								"descricao": "Ajuste necessário identificado durante as simulações",
+								"inicio": "25/06/2018",
+								"fim": "06/07/2018"
+							},
+							{
+								"id": "2.1.3.27",
+								"descricao": "Apresentação preliminar dos resultados",
+								"inicio": "25/06/2018",
+								"fim": "27/07/2018"
+							},
+							{
+								"id": "2.1.3.28",
+								"descricao": "Elaboração de texto explicativo",
+								"inicio": "25/06/2018",
+								"fim": "27/07/2018"
+							},
+							{
+								"id": "2.1.3.29",
+								"descricao": "Apresentação dos resultados ao Diretor de Planejamento",
+								"inicio": "25/06/2018",
+								"fim": "27/07/2018"
+							},
+							{
+								"id": "2.1.3.3",
+								"descricao": "Definição do prêmio de bolsa",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.30",
+								"descricao": "Envio dos resultados às gerências usuárias das informações",
+								"inicio": "30/07/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "2.1.3.31",
+								"descricao": "Resultados enviados às gerências usuárias das informações",
+								"inicio": "31/07/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "2.1.3.4",
+								"descricao": "Definição do percentual de renda variável",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.5",
+								"descricao": "Definição de benchmark",
+								"inicio": "07/02/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.6",
+								"descricao": "Definição dos cenários de longo prazo",
+								"inicio": "11/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.7",
+								"descricao": "Definição do percentual de rateio com programa de investimentos",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.8",
+								"descricao": "Definição dos impactos dos projetos",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "2.1.3.9",
+								"descricao": "Levantamento das fontes de custeio",
+								"inicio": "08/01/2018",
+								"fim": "09/02/2018"
+							}
+						]
+					},
+					{
+						"id": "2.1.4",
+						"nome": "Propor a cobrança de taxa para custeio de despesas administrativas do plano PF no período pós-laboral",
+						"responsaveis": [
+							"RISCO"
+						],
+						"conducao": [
+							"GEPOC"
+						],
+						"intervenientes": [
+							"ASCOM",
+							"ASJUR",
+							"GABIN",
+							"GECAT",
+							"GECON",
+							"GECOT",
+							"GEPAB",
+							"GEVAR",
+							"INFOR"
+						],
+						"inicio": "02/01/2018",
+						"fim": "02/10/2018",
+						"status": 6,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EY6rGfTYpiNEk_zNQMHu6f0BFlGxitG-HnIaBsBacVQdlQ?e=009Ufn",
+							"descricao": "Escopo de Alto Nível 2.3.2"
+						}],
+						"entregasAtb1": [
+							"01/02/2018"
+						],
+						"etapas": [{
+								"id": "2.1.4.1",
+								"descricao": "Apreciação pelo DELIB de condição paritária de cobrança de taxa do PPF no período pós laboral, a partir de estudo elaborado pela Risco e intervenientes",
+								"inicio": "02/01/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "2.1.4.2",
+								"descricao": "Nota de condição paritária apreciada no Delib.",
+								"inicio": "30/03/2018",
+								"fim": "30/03/2018"
+							},
+							{
+								"id": "2.1.4.3",
+								"descricao": "Proposta de plano de implantação com respectivos impactos nas áreas e processos",
+								"inicio": "02/04/2018",
+								"fim": "02/10/2018"
+							},
+							{
+								"id": "2.1.4.4",
+								"descricao": "Nota com proposta de implantação apreciada na Diretoria Executiva",
+								"inicio": "31/08/2018",
+								"fim": "31/08/2018"
+							}
+						]
+					}
+				],
+				"projetos": [{
+					"id": "2.1.5",
+					"nome": "Projeto Otimização da Sede",
+					"responsaveis": [
+						"GESAD"
+					],
+					"intervenientes": [
+						"GERAI",
+						"INFOR"
+					],
+					"conducao": [],
+					"inicio": "05/05/2017",
+					"fim": "22/03/2019",
+					"status": 3,
+					"arquivos": [{
+						"link": "http://eproj/itg/project/ViewProject.do?projectId=32464",
+						"descricao": "Página do Projeto no PPM"
+					}],
+					"entregasAtb1": [
+						"01/01/2018",
+						"01/02/2018",
+						"01/06/2018"
+					],
+					"etapas": [{
+						"id": "",
+						"descricao": "-Verificar informações no PPM (Link na Aba de Downloads)-",
+						"inicio": "",
+						"fim": ""
+					}]
+				}]
+			},
+			{
+				"id": "2.2",
+				"nome": "Otimizar o planejamento, a execução e a entrega dos projetos",
+				"responsaveis": [
+					"GEPOC"
+				],
+				"indicadores": [{
+						"nome": "Nota do Portfolio de Projetos",
+						"target": "8,50%",
+						"atual": "8,90%"
+					},
+					{
+						"nome": "média custo-benefício realizado/planejado dos projetos",
+						"target": "100%",
+						"atual": ""
+					},
+					{
+						"nome": "Nível de maturidade da Gestão de Projetos",
+						"target": "A Definir",
+						"atual": ""
+					}
+				],
+				"iniciativas": [{
+						"id": "2.2.1",
+						"nome": "Revisão do PMO/GP da Previ, com foco na Gestão da Mudança",
+						"responsaveis": [
+							"GEPOC"
+						],
+						"conducao": [
+							"EPROJ"
+						],
+						"intervenientes": [
+							"Sem Intervenientes"
+						],
+						"inicio": "02/01/2018",
+						"fim": "31/05/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EZUMV3tW5wREnl6E8Tpn-skBJbz9Iv4l_Y6TAYgbUVDjWw?e=dLwJaZ",
+							"descricao": "Escopo de Alto Nível 2.2.1"
+						}],
+						"entregasAtb1": [
+							"01/05/2018"
+						],
+						"etapas": [{
+							"id": "2.2.1.1",
+							"descricao": "Nota com proposta de implantação de melhorias apreciada pela Diretoria Executiva",
+							"inicio": "31/05/2018",
+							"fim": "31/05/2018"
+						}]
+					},
+					{
+						"id": "2.2.2",
+						"nome": "Construir Trilha de Treinamento em Gestão de Projetos",
+						"responsaveis": [
+							"GEPOC"
+						],
+						"conducao": [
+							"EPROJ"
+						],
+						"intervenientes": [
+							"GETHO",
+							"ASCOM"
+						],
+						"inicio": "01/06/2018",
+						"fim": "13/08/2018",
+						"status": 5,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EU7UsUm9jZBJrcFlRZ0xUVIBI7Uah_57nHGhuezUfM4usA?e=gSE6wT",
+							"descricao": "Escopo de Alto Nível 2.2.2"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "2.2.2.1",
+								"descricao": "Definir peças auto instrucionais (preferencialmente da UNIBB) que serão utilizadas para o estágio 1 (Fundamentos)",
+								"inicio": "01/06/2018",
+								"fim": "15/06/2018"
+							},
+							{
+								"id": "2.2.2.2",
+								"descricao": "Peças do Estágio 1 (Fundamentos) definidas",
+								"inicio": "15/06/2018",
+								"fim": "15/06/2018"
+							},
+							{
+								"id": "2.2.2.3",
+								"descricao": "Elaborar conteúdos e formato para curso interno Gestão de Projetos da Previ",
+								"inicio": "18/06/2018",
+								"fim": "20/07/2018"
+							},
+							{
+								"id": "2.2.2.4",
+								"descricao": "Definir lista de cursos presenciais indicados para Estágio 3 (Aprofundamento)",
+								"inicio": "18/06/2018",
+								"fim": "20/07/2018"
+							},
+							{
+								"id": "2.2.2.5",
+								"descricao": "Aprovação e disponibilização do curso pela Getho",
+								"inicio": "23/07/2018",
+								"fim": "27/07/2018"
+							},
+							{
+								"id": "2.2.2.6",
+								"descricao": "Lançamento do curso (matéria Conecta) com divulgação da turma",
+								"inicio": "30/07/2018",
+								"fim": "30/07/2018"
+							},
+							{
+								"id": "2.2.2.7",
+								"descricao": "Primeira turma de treinamento (Validação)",
+								"inicio": "13/08/2018",
+								"fim": "13/08/2018"
+							},
+							{
+								"id": "2.2.2.8",
+								"descricao": "Primeira turma treinada com avaliação do curso (nota 7,5/10)",
+								"inicio": "13/08/2018",
+								"fim": "13/08/2018"
+							}
+						]
+					}
+				],
+				"projetos": []
+			},
+			{
+				"id": "2.3",
+				"nome": "Otimizar processos e estruturas visando aumentar eficiência",
+				"responsaveis": [
+					"GETHO"
+				],
+				"indicadores": [{
+						"nome": "Percentual de Processos Mapeados",
+						"target": "100%",
+						"atual": ""
+					},
+					{
+						"nome": "Ferramenta de Gestão Normativa definida",
+						"target": "Estudo apresentado",
+						"atual": ""
+					}
+				],
+				"iniciativas": [{
+						"id": "2.3.1",
+						"nome": "Mapear processos visando otimização (processos do Governança de Processos)",
+						"responsaveis": [
+							"GETHO"
+						],
+						"conducao": [{
+							"nome": "Saulo Santos",
+							"email": "saulosuassuna@previ.com.br"
+						}],
+						"intervenientes": [
+							"CONIN",
+							"Áreas a definir conforme cronograma"
+						],
+						"inicio": "02/05/2018",
+						"fim": "26/06/2018",
+						"status": 5,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EYGzhWQlZr1MtG3R_RQ9rx8BuywexN5cazjCk_3GrzodSw?e=hJrMAt",
+							"descricao": "Escopo de Alto Nível 2.3.1"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+								"id": "2.3.1.1",
+								"descricao": "Planejamento",
+								"inicio": "02/05/2018",
+								"fim": "08/05/2018"
+							},
+							{
+								"id": "2.3.1.10",
+								"descricao": "Planejamento",
+								"inicio": "02/05/2018",
+								"fim": "08/05/2018"
+							},
+							{
+								"id": "2.3.1.11",
+								"descricao": "Confirmação da composição dos serviços",
+								"inicio": "09/05/2018",
+								"fim": "11/05/2018"
+							},
+							{
+								"id": "2.3.1.12",
+								"descricao": "Mapeamento dos processos - As Is",
+								"inicio": "14/05/2018",
+								"fim": "25/05/2018"
+							},
+							{
+								"id": "2.3.1.13",
+								"descricao": "Validação - gerente área",
+								"inicio": "28/05/2018",
+								"fim": "28/05/2018"
+							},
+							{
+								"id": "2.3.1.14",
+								"descricao": "Validação - CONIN",
+								"inicio": "29/05/2018",
+								"fim": "01/06/2018"
+							},
+							{
+								"id": "2.3.1.15",
+								"descricao": "Validação - Escritório de Processos",
+								"inicio": "04/06/2018",
+								"fim": "06/06/2018"
+							},
+							{
+								"id": "2.3.1.16",
+								"descricao": "Composição do normativo",
+								"inicio": "07/06/2018",
+								"fim": "08/06/2018"
+							},
+							{
+								"id": "2.3.1.17",
+								"descricao": "Aprovação - Diretoria ou Delib",
+								"inicio": "11/06/2018",
+								"fim": "22/06/2018"
+							},
+							{
+								"id": "2.3.1.18",
+								"descricao": "Publicação",
+								"inicio": "25/06/2018",
+								"fim": "26/06/2018"
+							},
+							{
+								"id": "2.3.1.19",
+								"descricao": "Planejamento",
+								"inicio": "02/05/2018",
+								"fim": "08/05/2018"
+							},
+							{
+								"id": "2.3.1.2",
+								"descricao": "Confirmação da composição dos serviços",
+								"inicio": "09/05/2018",
+								"fim": "11/05/2018"
+							},
+							{
+								"id": "2.3.1.20",
+								"descricao": "Confirmação da composição dos serviços",
+								"inicio": "09/05/2018",
+								"fim": "11/05/2018"
+							},
+							{
+								"id": "2.3.1.21",
+								"descricao": "Mapeamento dos processos - As Is",
+								"inicio": "14/05/2018",
+								"fim": "25/05/2018"
+							},
+							{
+								"id": "2.3.1.22",
+								"descricao": "Validação - gerente área",
+								"inicio": "28/05/2018",
+								"fim": "28/05/2018"
+							},
+							{
+								"id": "2.3.1.23",
+								"descricao": "Validação - CONIN",
+								"inicio": "29/05/2018",
+								"fim": "01/06/2018"
+							},
+							{
+								"id": "2.3.1.24",
+								"descricao": "Validação - Escritório de Processos",
+								"inicio": "04/06/2018",
+								"fim": "06/06/2018"
+							},
+							{
+								"id": "2.3.1.25",
+								"descricao": "Composição do normativo",
+								"inicio": "07/06/2018",
+								"fim": "08/06/2018"
+							},
+							{
+								"id": "2.3.1.26",
+								"descricao": "Aprovação - Diretoria ou Delib",
+								"inicio": "11/06/2018",
+								"fim": "22/06/2018"
+							},
+							{
+								"id": "2.3.1.27",
+								"descricao": "Publicação",
+								"inicio": "25/06/2018",
+								"fim": "26/06/2018"
+							},
+							{
+								"id": "2.3.1.28",
+								"descricao": "Gerenciar jurídico",
+								"inicio": "02/05/2018",
+								"fim": "02/05/2018"
+							},
+							{
+								"id": "2.3.1.3",
+								"descricao": "Mapeamento dos processos - As Is",
+								"inicio": "14/05/2018",
+								"fim": "25/05/2018"
+							},
+							{
+								"id": "2.3.1.4",
+								"descricao": "Validação - gerente área",
+								"inicio": "28/05/2018",
+								"fim": "28/05/2018"
+							},
+							{
+								"id": "2.3.1.5",
+								"descricao": "Validação - CONIN",
+								"inicio": "29/05/2018",
+								"fim": "01/06/2018"
+							},
+							{
+								"id": "2.3.1.6",
+								"descricao": "Validação - Escritório de Processos",
+								"inicio": "04/06/2018",
+								"fim": "06/06/2018"
+							},
+							{
+								"id": "2.3.1.7",
+								"descricao": "Composição do normativo",
+								"inicio": "07/06/2018",
+								"fim": "08/06/2018"
+							},
+							{
+								"id": "2.3.1.8",
+								"descricao": "Aprovação - Diretoria ou Delib",
+								"inicio": "11/06/2018",
+								"fim": "22/06/2018"
+							},
+							{
+								"id": "2.3.1.9",
+								"descricao": "Publicação",
+								"inicio": "25/06/2018",
+								"fim": "26/06/2018"
+							}
+						]
+					},
+					{
+						"id": "2.3.2",
+						"nome": "Mapear processos visando otimização (processos do Plataformas)",
+						"responsaveis": [
+							"GETHO"
+						],
+						"conducao": [{
+							"nome": "Saulo Santos",
+							"email": "saulosuassuna@previ.com.br"
+						}],
+						"intervenientes": [
+							"GETHO",
+							"GECON",
+							"GECOT",
+							"INFOR",
+							"GESAD",
+							"GERAT",
+							"GECAT",
+							"GEVAR",
+							"GEBEN",
+							"GEPAB",
+							"GESOP",
+							"GECOB"
+						],
+						"inicio": "02/04/2018",
+						"fim": "30/12/2020",
+						"status": 5,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EY6rGfTYpiNEk_zNQMHu6f0BFlGxitG-HnIaBsBacVQdlQ?e=009Ufn",
+							"descricao": "Escopo de Alto Nível 2.3.2"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+							"id": "",
+							"descricao": "-Verificar informações no PPM (Link na Aba de Downloads)-",
+							"inicio": "",
+							"fim": ""
+						}]
+					},
+					{
+						"id": "2.3.3",
+						"nome": "Otimizar Estrutura Normativa",
+						"responsaveis": [
+							"GETHO"
+						],
+						"conducao": [{
+							"nome": "Saulo Santos",
+							"email": "saulosuassuna@previ.com.br"
+						}],
+						"intervenientes": [
+							"INFOR"
+						],
+						"inicio": "02/05/2017",
+						"fim": "30/03/2018",
+						"status": 1,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/Efr8xz2NgxBBnQYhyZFDCscBC28igipNhnkEgzgCwwmi2g?e=abPveB",
+							"descricao": "Escopo de Alto Nível 2.3.3"
+						}],
+						"entregasAtb1": [
+							"01/03/2018"
+						],
+						"etapas": [{
+								"id": "2.3.3.1",
+								"descricao": "Levantamento das funcionalidades necessárias",
+								"inicio": "02/05/2017",
+								"fim": "15/12/2017"
+							},
+							{
+								"id": "2.3.3.2",
+								"descricao": "Avaliar aderência das funcionalidades às soluções disponíveis (INC, Sharepoint, Aris e Folio)",
+								"inicio": "01/12/2017",
+								"fim": "15/01/2018"
+							},
+							{
+								"id": "2.3.3.3",
+								"descricao": "Estudar viabilidade de integração com Aris",
+								"inicio": "02/01/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "2.3.3.4",
+								"descricao": "Definição da solução a ser utilizada e do Plano de Implantação",
+								"inicio": "01/02/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "2.3.3.5",
+								"descricao": "Ferramenta definida e aprovada pelo Comitê Patrocinador",
+								"inicio": "30/03/2018",
+								"fim": "30/03/2018"
+							}
+						]
+					},
+					{
+						"id": "2.3.4",
+						"nome": "Pesquisa de Satisfação Interna",
+						"responsaveis": [
+							"GETHO"
+						],
+						"conducao": [{
+							"nome": "Alexander Pires",
+							"email": "alexferreira@previ.com.br"
+						}],
+						"intervenientes": [
+							"Toda PREVI"
+						],
+						"inicio": "02/01/2018",
+						"fim": "31/08/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/Ef2K0AWTO5tIqYdn0EUZFV4B13PE9pwGX3zpJR879a2qRw?e=v75Ctk",
+							"descricao": "Escopo de Alto Nível 2.3.4"
+						}],
+						"entregasAtb1": [
+							"01/03/2018"
+						],
+						"etapas": [{
+								"id": "2.3.4.1",
+								"descricao": "Vincular produtos às áreas",
+								"inicio": "02/01/2018",
+								"fim": "31/01/2018"
+							},
+							{
+								"id": "2.3.4.10",
+								"descricao": "Nota apreciada pela Diretoria Executiva com relatório da pesquisa",
+								"inicio": "31/08/2018",
+								"fim": "31/08/2018"
+							},
+							{
+								"id": "2.3.4.2",
+								"descricao": "Elaborar instruções e regras da pesquisa",
+								"inicio": "16/02/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "2.3.4.3",
+								"descricao": "Elaborar questionário da pesquisa",
+								"inicio": "01/03/2018",
+								"fim": "09/03/2018"
+							},
+							{
+								"id": "2.3.4.4",
+								"descricao": "Questionário elaborado",
+								"inicio": "09/03/2018",
+								"fim": "09/03/2018"
+							},
+							{
+								"id": "2.3.4.5",
+								"descricao": "Disponibilizar às áreas as instruções e os formulários",
+								"inicio": "11/03/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "2.3.4.6",
+								"descricao": "Aplicar pesquisa",
+								"inicio": "01/05/2018",
+								"fim": "08/06/2018"
+							},
+							{
+								"id": "2.3.4.7",
+								"descricao": "Enviar questionários preenchidos para a Getho",
+								"inicio": "11/06/2018",
+								"fim": "10/07/2018"
+							},
+							{
+								"id": "2.3.4.8",
+								"descricao": "Tabular questionários",
+								"inicio": "11/07/2018",
+								"fim": "03/08/2018"
+							},
+							{
+								"id": "2.3.4.9",
+								"descricao": "Apresentar Relatório de Pesquisa",
+								"inicio": "06/08/2018",
+								"fim": "31/08/2018"
+							}
+						]
+					}
+				],
+				"projetos": [{
+					"id": "2.3.5",
+					"nome": "Projeto Governança de Processos",
+					"responsaveis": [
+						"GETHO"
+					],
+					"intervenientes": [
+						"INFOR",
+						"CONIN",
+						"AUDIT"
+					],
+					"inicio": "02/01/2017",
+					"fim": "30/05/2018",
+					"status": 4,
+					"arquivos": [{
+						"link": "http://eproj/itg/project/ViewProject.do?projectId=32102",
+						"descricao": "Página do Projeto no PPM"
+					}],
+					"entregasAtb1": [
+						"01/03/2018"
+					],
+					"etapas": [{
+						"id": "",
+						"descricao": "-Verificar informações no PPM (Link na Aba de Downloads)-",
+						"inicio": "",
+						"fim": ""
+					}]
+				}]
+			},
+			{
+				"id": "2.4",
+				"nome": "Garantir a sustentabilidade das competências",
+				"responsaveis": [
+					"GETHO"
+				],
+				"indicadores": [{
+						"nome": "Trilha disponibilizada",
+						"target": "A Definir",
+						"atual": ""
+					},
+					{
+						"nome": "% gestores com potenciais sucessores identificados",
+						"target": "A Definir",
+						"atual": ""
+					},
+					{
+						"nome": "% de ações realizadas",
+						"target": "A Definir",
+						"atual": ""
+					}
+				],
+				"iniciativas": [{
+						"id": "2.4.1",
+						"nome": "Disponibilizar Trilha de Ambientação do Funcionário",
+						"responsaveis": [
+							"GETHO"
+						],
+						"conducao": [
+							"NUESP"
+						],
+						"intervenientes": [
+							"GABIN",
+							"ASCOM",
+							"SECEX",
+							"INFOR"
+						],
+						"inicio": "02/01/2018",
+						"fim": "28/12/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/ERqS2lDQ89xBt99ChNBLgVABdbVa1LU7HwHnTTMeLkPlhg?e=zWUgll",
+							"descricao": "Escopo de Alto Nível 2.4.1"
+						}],
+						"entregasAtb1": [
+							"01/03/2018"
+						],
+						"etapas": [{
+								"id": "2.4.1.1",
+								"descricao": "Definir temas da Trilha de Ambientação",
+								"inicio": "02/01/2018",
+								"fim": "31/01/2018"
+							},
+							{
+								"id": "2.4.1.10",
+								"descricao": "Validação do roteiro final",
+								"inicio": "24/09/2018",
+								"fim": "11/10/2018"
+							},
+							{
+								"id": "2.4.1.11",
+								"descricao": "Proposta de identidade visual para a Trilha",
+								"inicio": "16/10/2018",
+								"fim": "29/10/2018"
+							},
+							{
+								"id": "2.4.1.12",
+								"descricao": "Validação final da identidade visual da Trilha",
+								"inicio": "29/10/2018",
+								"fim": "01/11/2018"
+							},
+							{
+								"id": "2.4.1.13",
+								"descricao": "Construção da Trilha de Ambientação",
+								"inicio": "05/11/2018",
+								"fim": "16/11/2018"
+							},
+							{
+								"id": "2.4.1.14",
+								"descricao": "Validação da Trilha de Ambientação",
+								"inicio": "19/11/2018",
+								"fim": "23/11/2018"
+							},
+							{
+								"id": "2.4.1.15",
+								"descricao": "Ajustes finais na Trilha de Ambientação",
+								"inicio": "26/11/2018",
+								"fim": "30/11/2018"
+							},
+							{
+								"id": "2.4.1.16",
+								"descricao": "Homologação da Trilha de Ambientação",
+								"inicio": "03/12/2018",
+								"fim": "07/12/2018"
+							},
+							{
+								"id": "2.4.1.17",
+								"descricao": "Publicação da Trilha de Ambientação no Portal de Educação da Previ",
+								"inicio": "10/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.4.1.18",
+								"descricao": "Trilha publicada no Portal de Educação Previ",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.4.1.2",
+								"descricao": "Encaminhar pedido de contratação da Ciatech para desenvolver as peças da trilha",
+								"inicio": "02/01/2018",
+								"fim": "10/01/2018"
+							},
+							{
+								"id": "2.4.1.3",
+								"descricao": "Contratar a Ciatech para desenvolver as peças da trilha",
+								"inicio": "10/01/2018",
+								"fim": "08/03/2018"
+							},
+							{
+								"id": "2.4.1.4",
+								"descricao": "Definir conteúdos para as peças educacionais da trilha",
+								"inicio": "01/02/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "2.4.1.5",
+								"descricao": "Conteúdos das peças definidos",
+								"inicio": "30/03/2018",
+								"fim": "30/03/2018"
+							},
+							{
+								"id": "2.4.1.6",
+								"descricao": "Enviar proposta de roteiro/conteúdos da trilha para a Ciatech",
+								"inicio": "02/04/2018",
+								"fim": "05/04/2018"
+							},
+							{
+								"id": "2.4.1.7",
+								"descricao": "Proposta de roteiro para a Trilha",
+								"inicio": "06/04/2018",
+								"fim": "05/09/2018"
+							},
+							{
+								"id": "2.4.1.8",
+								"descricao": "Validação do roteiro sugerido pela Ciatech, com solicitação de ajustes necessários",
+								"inicio": "07/05/2018",
+								"fim": "06/09/2018"
+							},
+							{
+								"id": "2.4.1.9",
+								"descricao": "Proposta de roteiro final, considerando os ajustes solicitados pela Getho",
+								"inicio": "10/09/2018",
+								"fim": "21/09/2018"
+							}
+						]
+					},
+					{
+						"id": "2.4.2",
+						"nome": "Implantar Plano de Desenvolvimento dos Gestores e do público-alvo.",
+						"responsaveis": [
+							"GETHO"
+						],
+						"conducao": [
+							"NUESP"
+						],
+						"intervenientes": [
+							"Toda PREVI"
+						],
+						"inicio": "02/01/2018",
+						"fim": "28/12/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EaoNd5-Le5JGgcat1qDL5F4By5d4c6GMYvrzmhDeFcoF_g?e=V6DauT",
+							"descricao": "Escopo de Alto Nível 2.4.2"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "2.4.2.1",
+								"descricao": "Elaborar plano de ação com ações a serem realizadas",
+								"inicio": "02/01/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "2.4.2.2",
+								"descricao": "Elaborar plano de comunicação e engajamento",
+								"inicio": "16/02/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.4.2.3",
+								"descricao": "Implementar ações de acordo com cronograma",
+								"inicio": "01/05/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.4.2.4",
+								"descricao": "Realizar o acompanhamento das ações",
+								"inicio": "01/05/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.4.2.5",
+								"descricao": "Apresentar mapa de acompanhamento 1º sem para a DIRAD",
+								"inicio": "01/05/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "2.4.2.6",
+								"descricao": "Mapa de acompanhamento 1º sem apresentado no Com. Patrocinador",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "2.4.2.7",
+								"descricao": "Apresentar mapa de acompanhamento 2º sem para a DIRAD",
+								"inicio": "02/07/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.4.2.8",
+								"descricao": "Mapa de acompanhamento 2º sem apresentado no Com. Patrocinador",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							}
+						]
+					}
+				],
+				"projetos": []
+			},
+			{
+				"id": "2.5",
+				"nome": "Modernizar tecnologia da Previ com ênfase no projeto Plataformas",
+				"responsaveis": [
+					"INFOR"
+				],
+				"indicadores": [{
+					"nome": "Percentual de cumprimento do cronograma de implementação de cada onda do Projeto Plataformas (Planejado X Executado)",
+					"target": "100%",
+					"atual": ""
+				}],
+				"iniciativas": [{
+						"id": "2.5.5",
+						"nome": "INOVA Disponibilizar novas soluções de comunicação e colaboração para as Áreas de negócio",
+						"responsaveis": [
+							"INFOR"
+						],
+						"conducao": [
+							"NUARQ"
+						],
+						"intervenientes": [
+							"GETHO"
+						],
+						"inicio": "15/01/2018",
+						"fim": "29/06/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EX_Kr4b6W81OtCtOJwKSnO4BJTfSrGGWOr4ZsinC1-olgg?e=VkgbGA",
+							"descricao": "Escopo de Alto Nível 2.5.5"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "2.5.5.1",
+								"descricao": "Realização de POC com vistas a identificar qual ferramenta do Office 365 melhor atende a necessidade",
+								"inicio": "15/01/2018",
+								"fim": "02/03/2018"
+							},
+							{
+								"id": "2.5.5.2",
+								"descricao": "Apresentar o resultado da POC para conhecimento e aprovação",
+								"inicio": "05/03/2018",
+								"fim": "23/03/2018"
+							},
+							{
+								"id": "2.5.5.3",
+								"descricao": "Normatização do processo",
+								"inicio": "26/03/2018",
+								"fim": "25/05/2018"
+							},
+							{
+								"id": "2.5.5.4",
+								"descricao": "Divulgação do processo e uso da ferramenta no Conecta",
+								"inicio": "28/05/2018",
+								"fim": "01/06/2018"
+							},
+							{
+								"id": "2.5.5.5",
+								"descricao": "Disseminação entre as áreas e elaboração de tutorial de uso",
+								"inicio": "04/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "2.5.5.6",
+								"descricao": "Disseminação entre as áreas/tutorial de uso/divulgação do processo",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							}
+						]
+					},
+					{
+						"id": "2.5.6",
+						"nome": "INOVA Implementar a liberação do uso móvel das ferramentas Microsoft para os funcionários.",
+						"responsaveis": [
+							"INFOR"
+						],
+						"intervenientes": [
+							"ASJUR"
+						],
+						"conducao": [
+							"GOVIT"
+						],
+						"inicio": "02/01/2018",
+						"fim": "31/08/2018",
+						"status": 3,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EfM0gjFf5kJPjYbnbkDGRCoBV7DcEZanaQeymc1De1Rwcg?e=c8Rd1Z",
+							"descricao": "Escopo de Alto Nível 2.5.6"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "2.5.6.1",
+								"descricao": "Realizar consulta à Asjur acerca dos aspectos legais sobre a utilização",
+								"inicio": "02/01/2018",
+								"fim": "05/01/2018"
+							},
+							{
+								"id": "2.5.6.2",
+								"descricao": "Manifestação da Asjur sobre a consulta",
+								"inicio": "08/01/2018",
+								"fim": "02/02/2018"
+							},
+							{
+								"id": "2.5.6.3",
+								"descricao": "Realizar POC com vistas à identificar restrições técnicas à utilização do conjunto de softwares da suite Office 365",
+								"inicio": "05/02/2018",
+								"fim": "02/03/2018"
+							},
+							{
+								"id": "2.5.6.4",
+								"descricao": "Apresentar o resultado do estudo para conhecimento e aprovação",
+								"inicio": "05/03/2018",
+								"fim": "16/03/2018"
+							},
+							{
+								"id": "2.5.6.5",
+								"descricao": "Normatização do processo",
+								"inicio": "19/03/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "2.5.6.6",
+								"descricao": "Realização de piloto na DIRAD",
+								"inicio": "01/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "2.5.6.7",
+								"descricao": "Piloto realizado na DIRAD",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "2.5.6.8",
+								"descricao": "Divulgação do processo e calendário de liberação de uso",
+								"inicio": "02/07/2018",
+								"fim": "31/08/2018"
+							},
+							{
+								"id": "2.5.6.9",
+								"descricao": "Divulgação do processo e calendário de liberação",
+								"inicio": "31/08/2018",
+								"fim": "31/08/2018"
+							}
+						]
+					}
+				],
+				"projetos": [{
+						"id": "2.5.1",
+						"nome": "Projeto Plataformas - Onda1 (Piloto)",
+						"responsaveis": [
+							"INFOR"
+						],
+						"intervenientes": [
+							"GECON",
+							"GETHO",
+							"GECOT",
+							"INFOR",
+							"GESAD",
+							"GERAT",
+							"GECAT",
+							"GEVAR",
+							"GEBEN",
+							"GEPAB",
+							"GESOP",
+							"GECOB"
+						],
+						"inicio": "03/05/2018",
+						"fim": "21/02/2019",
+						"status": 4,
+						"arquivos": [{
+							"link": "http://eproj/itg/project/ViewProject.do?projectId=31679",
+							"descricao": "Página do Projeto no PPM"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+							"id": "",
+							"descricao": "-Verificar informações no PPM (Link na Aba de Downloads)-",
+							"inicio": "",
+							"fim": ""
+						}]
+					},
+					{
+						"id": "2.5.2",
+						"nome": "Projeto Plataformas - Onda 2 (Gestão Empresarial)",
+						"responsaveis": [
+							"INFOR"
+						],
+						"intervenientes": [
+							"GETHO",
+							"GECON",
+							"GECOT",
+							"INFOR",
+							"GESAD"
+						],
+						"inicio": "16/11/2018",
+						"fim": "22/01/2020",
+						"status": 5,
+						"arquivos": [{
+							"link": "http://eproj/itg/project/ViewProject.do?projectId=31679",
+							"descricao": "Página do Projeto no PPM"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+							"id": "",
+							"descricao": "-Verificar informações no PPM (Link na Aba de Downloads)-",
+							"inicio": "",
+							"fim": ""
+						}]
+					},
+					{
+						"id": "2.5.3",
+						"nome": "Projeto Plataformas - Onda 3 (Seguridade - Previ Futuro)",
+						"responsaveis": [
+							"INFOR"
+						],
+						"intervenientes": [
+							"GERAT",
+							"GECAT",
+							"GEVAR",
+							"GEBEN",
+							"GEPAB",
+							"GESOP",
+							"GECOB"
+						],
+						"inicio": "15/10/2018",
+						"fim": "17/09/2019",
+						"status": 5,
+						"arquivos": [{
+							"link": "http://eproj/itg/project/ViewProject.do?projectId=31679",
+							"descricao": "Página do Projeto no PPM"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+							"id": "",
+							"descricao": "-Verificar informações no PPM (Link na Aba de Downloads)-",
+							"inicio": "",
+							"fim": ""
+						}]
+					},
+					{
+						"id": "2.5.4",
+						"nome": "Projeto Plataformas - Onda 4 (Seguridade Plano 1 e demais)",
+						"responsaveis": [
+							"INFOR"
+						],
+						"intervenientes": [
+							"GERAT",
+							"GECAT",
+							"GEVAR",
+							"GEBEN",
+							"GEPAB",
+							"GESOP",
+							"GECOB"
+						],
+						"inicio": "15/10/2018",
+						"fim": "13/05/2019",
+						"status": 5,
+						"arquivos": [{
+							"link": "http://eproj/itg/project/ViewProject.do?projectId=31679",
+							"descricao": "Página do Projeto no PPM"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+							"id": "",
+							"descricao": "-Verificar informações no PPM (Link na Aba de Downloads)-",
+							"inicio": "",
+							"fim": ""
+						}]
+					}
+				]
+			},
+			{
+				"id": "2.6",
+				"nome": "Promover melhoria contínua na governança e controles ",
+				"responsaveis": [
+					"GABIN"
+				],
+				"indicadores": [{
+						"nome": "Riscos de fraudes mapeados/ riscos avaliados",
+						"target": "100%",
+						"atual": ""
+					},
+					{
+						"nome": "Fichas de verificação definidas /fichas implementadas",
+						"target": "100% das fichas definidas para 2018",
+						"atual": ""
+					},
+					{
+						"nome": "% comitês revistos",
+						"target": "100,00%",
+						"atual": ""
+					}
+				],
+				"iniciativas": [{
+						"id": "2.6.1",
+						"nome": "Otimizar o sistema de controles internos",
+						"responsaveis": [
+							"CONIN"
+						],
+						"conducao": [{
+							"nome": "Rafael Soares",
+							"email": "rafaelcastro@previ.com.br"
+						}],
+						"intervenientes": [
+							"Sem Intervenientes"
+						],
+						"inicio": "02/01/2018",
+						"fim": "28/12/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EToZ3jyQnv5Ov2foiRiKx3sBCYqChNFzvsjyzD4MlVT10w?e=iBE2tO",
+							"descricao": "Escopo de Alto Nível 2.6.1"
+						}],
+						"entregasAtb1": [
+							"01/05/2018",
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "2.6.1.1",
+								"descricao": "Compartilhamento de planejamento e resultado dos trabalhos entre a segunda e terceira linhas de defesa",
+								"inicio": "02/01/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.6.1.10",
+								"descricao": "Fichas implementadas nos demais processos críticos",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.6.1.2",
+								"descricao": "Levantar junto às gerências da Previ os processos críticos para implementação de Fichas de Verificação (FVC)",
+								"inicio": "02/01/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "2.6.1.3",
+								"descricao": "Refinar o levantamento junto às áreas, definindo os processos onde serão implementados",
+								"inicio": "01/03/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "2.6.1.4",
+								"descricao": "Definir metodologia para construção das FVC",
+								"inicio": "02/04/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "2.6.1.5",
+								"descricao": "Implementar FVC piloto em um processo da Previ",
+								"inicio": "02/05/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "2.6.1.6",
+								"descricao": "FVC implementadas em um processo piloto",
+								"inicio": "30/05/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "2.6.1.7",
+								"descricao": "Conscientizar as áreas técnicas sobre o papel da 1ª linha de defesa e orientar sobre a construção das FVC (Realização de workshops)",
+								"inicio": "01/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "2.6.1.8",
+								"descricao": "Workshop com as gerências da Previ",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "2.6.1.9",
+								"descricao": "Implementar as FVC nos demais processos críticos",
+								"inicio": "02/07/2018",
+								"fim": "28/12/2018"
+							}
+						]
+					},
+					{
+						"id": "2.6.2",
+						"nome": "Implementar o 2o ciclo de aprimoramento do Programa de Integridade",
+						"responsaveis": [
+							"CONIN"
+						],
+						"conducao": [{
+							"nome": "Rafael Soares",
+							"email": "rafaelcastro@previ.com.br"
+						}],
+						"intervenientes": [
+							"Sem Intervenientes"
+						],
+						"inicio": "02/01/2018",
+						"fim": "28/12/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/ETJ11GcTh4tHv8Eq7lSk3d8BYDqmSTrJyIuJvfEHqQzQKg?e=CR5z0x",
+							"descricao": "Escopo de Alto Nível 2.6.2"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "2.6.2.1",
+								"descricao": "Participar de iniciativas externas anticorrupção (GT Integridade Institudo Ethos e GT Anticorrupção do Pacto Global)",
+								"inicio": "02/01/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.6.2.2",
+								"descricao": "Preparar formulário e aplicar para a Certificação Pró-Ética",
+								"inicio": "01/07/2018",
+								"fim": "26/12/2018"
+							},
+							{
+								"id": "2.6.2.3",
+								"descricao": "Certificação Pró-Ética aplicada",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "2.6.2.4",
+								"descricao": "Avaliação dos riscos de fraude das diretorias DIRIN, DIRAD e PRESI",
+								"inicio": "02/01/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.6.2.5",
+								"descricao": "Riscos de fraude das diretorias DIRIN, DIRAD e PRESI avaliados",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							}
+						]
+					},
+					{
+						"id": "2.6.3",
+						"nome": "Revisar os papéis dos Comitês (atual 2.1.3)",
+						"responsaveis": [
+							"GABIN"
+						],
+						"conducao": [{
+							"nome": "Cleide Menezes",
+							"email": "cleidemenezes@previ.com.br"
+						}],
+						"intervenientes": [
+							"GETHO",
+							"CONIN",
+							"SECEX"
+						],
+						"inicio": "02/01/2018",
+						"fim": "31/05/2019",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EWS_6O3bnWFIm-cFue9VzPwBWDSclWBXsqr9nvEgKiLBEw?e=Pexbo3",
+							"descricao": "Escopo de Alto Nível 2.6.3"
+						}],
+						"entregasAtb1": [
+							"01/04/2018"
+						],
+						"etapas": [{
+								"id": "2.6.3.1",
+								"descricao": "Levantamento de comitês (alçadas, atribuições, composição, efetividade)",
+								"inicio": "02/01/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "2.6.3.2",
+								"descricao": "Levantamento de comitês",
+								"inicio": "30/04/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "2.6.3.3",
+								"descricao": "Análise/estudo da necessidade de alteração de comitês executivos",
+								"inicio": "02/05/2018",
+								"fim": "31/05/2019"
+							},
+							{
+								"id": "2.6.3.4",
+								"descricao": "Análise/estudo da necessidade de alteração de comitês consultivos",
+								"inicio": "02/05/2018",
+								"fim": "31/05/2019"
+							},
+							{
+								"id": "2.6.3.5",
+								"descricao": "Análise/estudo da necessidade de alteração de comitês de assessoramento técnico",
+								"inicio": "02/05/2018",
+								"fim": "31/05/2019"
+							},
+							{
+								"id": "2.6.3.6",
+								"descricao": "Análise/estudo da necessidade de alteração de comitês especiais",
+								"inicio": "02/05/2018",
+								"fim": "31/05/2019"
+							},
+							{
+								"id": "2.6.3.7",
+								"descricao": "Proposta de revisão dos Comitês aprovada pelo Comitê Patrocinador",
+								"inicio": "31/05/2019",
+								"fim": "31/05/2019"
+							}
+						]
+					},
+					{
+						"id": "2.6.4",
+						"nome": "Revisar Estatuto e Regimentos",
+						"responsaveis": [
+							"GABIN"
+						],
+						"conducao": [{
+							"nome": "Cleide Menezes",
+							"email": "cleidemenezes@previ.com.br"
+						}],
+						"intervenientes": [
+							"GETHO",
+							"CONIN",
+							"ASJUR",
+							"SECEX"
+						],
+						"inicio": "02/01/2018",
+						"fim": "10/10/2019",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EYA3fyO4IeRJq2mM4VAov_UBNhqdwBDucMYLg2dK6Okj3g?e=nPNC0z",
+							"descricao": "Escopo de Alto Nível 2.6.4"
+						}],
+						"entregasAtb1": [
+							"01/05/2018"
+						],
+						"etapas": [{
+								"id": "2.6.4.1",
+								"descricao": "Avaliação e levantamento dos documentos que necessitam de revisão",
+								"inicio": "02/01/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "2.6.4.10",
+								"descricao": "Estudo e elaboração de proposta com possíveis alterações do regimento interno do COFIS",
+								"inicio": "02/01/2019",
+								"fim": "29/03/2019"
+							},
+							{
+								"id": "2.6.4.11",
+								"descricao": "Estudo e elaboração de proposta com possíveis alterações do regimento interno dos Conselhos Consultivos",
+								"inicio": "11/03/2019",
+								"fim": "28/06/2019"
+							},
+							{
+								"id": "2.6.4.12",
+								"descricao": "Estudo e elaboração de proposta com possíveis alterações nos normativos do processo eleitoral",
+								"inicio": "01/07/2019",
+								"fim": "10/10/2019"
+							},
+							{
+								"id": "2.6.4.2",
+								"descricao": "Levantamento dos documentos que necessitam de revisão",
+								"inicio": "30/05/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "2.6.4.3",
+								"descricao": "Estudo e elaboração de proposta com possíveis alterações do estatuto",
+								"inicio": "04/06/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "2.6.4.4",
+								"descricao": "Proposta com possíveis alterações do estatuto",
+								"inicio": "28/09/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "2.6.4.5",
+								"descricao": "Estudo e elaboração de proposta com possíveis alterações do regimento interno da Previ",
+								"inicio": "01/10/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.6.4.6",
+								"descricao": "Proposta com possíveis alterações do regimento interno da Previ",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.6.4.7",
+								"descricao": "Estudo e elaboração de proposta de criação de regimento interno para a Diretoria Executiva",
+								"inicio": "01/10/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.6.4.8",
+								"descricao": "Proposta de criação de regimento interno para a Diretoria Executiva",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "2.6.4.9",
+								"descricao": "Estudo e elaboração de proposta com possíveis alterações no regimento interno do DELIB",
+								"inicio": "02/01/2019",
+								"fim": "29/03/2019"
+							}
+						]
+					},
+					{
+						"id": "2.6.5",
+						"nome": "Avaliação externa da maturidade da gestão de riscos da Previ, considerando o ambiente de controles internos",
+						"responsaveis": [
+							"RISCO"
+						],
+						"conducao": [
+							"Roberto de Luca"
+						],
+						"intervenientes": [
+							"CONIN",
+							"AUDIT",
+							"GECOT",
+							"GETHO",
+							"GESAD",
+							"GERIN",
+							"GETEC",
+							"GECAP",
+							"GEROP"
+						],
+						"inicio": "03/12/2018",
+						"fim": "28/06/2019",
+						"status": 5,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EXBTO9nJ3jBPupvH5yfUJVIBtxyvbwOwzp-tMDDMzVPRwg?e=qhvvKc",
+							"descricao": "Escopo de Alto Nível 2.6.5"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+								"id": "2.6.5.1",
+								"descricao": "Elaborar escopo de contratação",
+								"inicio": "03/12/2018",
+								"fim": "14/12/2018"
+							},
+							{
+								"id": "2.6.5.2",
+								"descricao": "Contratação da consultoria",
+								"inicio": "17/12/2018",
+								"fim": "01/02/2019"
+							},
+							{
+								"id": "2.6.5.3",
+								"descricao": "Atualização da avaliação de maturidade da Gestão de Riscos (aplicação externa)",
+								"inicio": "04/02/2019",
+								"fim": "05/04/2019"
+							},
+							{
+								"id": "2.6.5.4",
+								"descricao": "Atualização da avaliação de maturidade do sistema de Controles Internos (aplicação externa)",
+								"inicio": "04/02/2019",
+								"fim": "05/04/2019"
+							},
+							{
+								"id": "2.6.5.5",
+								"descricao": "Definição do alvo de maturidade e elaboração do plano de evolução",
+								"inicio": "08/04/2019",
+								"fim": "26/04/2019"
+							},
+							{
+								"id": "2.6.5.6",
+								"descricao": "Capacitação da equipe para auto-avaliações periódicas",
+								"inicio": "29/04/2019",
+								"fim": "10/05/2019"
+							},
+							{
+								"id": "2.6.5.7",
+								"descricao": "Definição de processo para atualização do indicador (auto-avaliação e aval. externas alternadas)",
+								"inicio": "13/05/2019",
+								"fim": "28/06/2019"
+							}
+						]
+					}
+				],
+				"projetos": []
+			},
+			{
+				"id": "2.7",
+				"nome": " Prospectar novos públicos e planos",
+				"responsaveis": [
+					"GABIN"
+				],
+				"indicadores": [{
+					"nome": "Quantidade de oportunidades prospectadas",
+					"target": "1 por ano",
+					"atual": ""
+				}],
+				"iniciativas": [{
+						"id": "2.7.1",
+						"nome": "Avaliar oferta de CAPEC aos funcionários incorporados",
+						"responsaveis": [
+							"GEVAR"
+						],
+						"conducao": [{
+							"nome": "Adriana Norival",
+							"email": "anorival@previ.com.br"
+						}],
+						"intervenientes": [
+							"GECAT",
+							"ASJUR",
+							"INFOR",
+							"GEBEN"
+						],
+						"inicio": "29/01/2018",
+						"fim": "29/06/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EVOcYDM7f81FtEnbvINCCU0BrEsptkiQ7KV-KKdOF8kiwg?e=WOu9Ie",
+							"descricao": "Escopo de Alto Nível 2.7.1"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "2.7.1.1",
+								"descricao": "Estudo de viabilidade de TI (com base no escopo da FSD 17168)",
+								"inicio": "29/01/2018",
+								"fim": "01/03/2018"
+							},
+							{
+								"id": "2.7.1.2",
+								"descricao": "Estudo de viabilidade técnica e custo/benefício",
+								"inicio": "01/03/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "2.7.1.3",
+								"descricao": "Elaboração de relatório de viabilidade a ser apresentado à Diretoria",
+								"inicio": "01/06/2018",
+								"fim": "29/06/2018"
+							}
+						]
+					},
+					{
+						"id": "2.7.2",
+						"nome": "Avaliar plano instituído para o público do conglomerado do BB",
+						"responsaveis": [
+							"Assessoria DISEG"
+						],
+						"conducao": [{
+							"nome": "Adriana Pizarro",
+							"email": "adriana.pizarro@previ.com.br"
+						}],
+						"intervenientes": [
+							"GECAT",
+							"GEVAR",
+							"ASJUR",
+							"INFOR",
+							"GERAT",
+							"GABIN",
+							"GEBEN"
+						],
+						"inicio": "01/05/2018",
+						"fim": "31/10/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/ERoRLMEmC5NFi_Y9wifW_aAB6Pfv9KWjcjYX2Pt3SSUgSg?e=dgCOdT",
+							"descricao": "Escopo de Alto Nível 2.7.2"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+								"id": "2.7.2.1",
+								"descricao": "Estudo de viabilidade técnica e custo/benefício",
+								"inicio": "01/05/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "2.7.2.2",
+								"descricao": "Estudo de viabilidade jurídica",
+								"inicio": "01/08/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "2.7.2.3",
+								"descricao": "Estudo de viabilidade de TI",
+								"inicio": "01/08/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "2.7.2.4",
+								"descricao": "Elaboração de relatório de viabilidade a ser apresentado à Diretoria",
+								"inicio": "01/10/2018",
+								"fim": "31/10/2018"
+							}
+						]
+					},
+					{
+						"id": "2.7.3",
+						"nome": "Avaliar oportunidade x riscos de gerir os planos de benefícios dos bancos incorporados (BESC, Nossa Caixa, etc)",
+						"responsaveis": [
+							"GABIN"
+						],
+						"conducao": [{
+							"nome": "Leandro Cerqueira",
+							"email": "lecerq@previ.com.br"
+						}],
+						"intervenientes": [
+							"GECAT",
+							"ASJUR",
+							"INFOR",
+							"GEVAR",
+							"GEBEN"
+						],
+						"inicio": "02/01/2018",
+						"fim": "28/12/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EdV0c9QML1tJuqrfVxu_sCsBZM4kr2N8Qvkil12yh095uA?e=ljwt9z",
+							"descricao": "Escopo de Alto Nível 2.7.3"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "2.7.3.1",
+								"descricao": "Levantamento da situação dos planos e riscos inerentes (relatório direcionador das etapas seguintes)",
+								"inicio": "02/01/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "2.7.3.2",
+								"descricao": "Análise/estudo de viabilidade técnica e de custo/benefício",
+								"inicio": "02/07/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "2.7.3.3",
+								"descricao": "Análise/estudo de viabilidade de TI",
+								"inicio": "01/10/2018",
+								"fim": "30/11/2018"
+							},
+							{
+								"id": "2.7.3.4",
+								"descricao": "Análise/estudo de viabilidade jurídica",
+								"inicio": "01/10/2018",
+								"fim": "30/11/2018"
+							},
+							{
+								"id": "2.7.3.5",
+								"descricao": "Conclusão da análise/estudo e redação do relatório",
+								"inicio": "03/12/2018",
+								"fim": "28/12/2018"
+							}
+						]
+					}
+				],
+				"projetos": []
+			}
+		]
+	},
+	{
+		"id": 3,
+		"cor": "purple",
+		"nome": "Balanceamento da gestão de ativos e passivos visando ao equilíbrio do Plano 1 ",
+		"responsaveis": [
+			"DIPLA",
+			"DIRIN",
+			"DIPAR"
+		],
+		"indicadorMacro": {
+			"nome": "Índice de solvência",
+			"target": "Acima do limite para equacionamento de déficit definido pela Previc",
+			"atual": null
+		},
+		"diretrizes": [{
+				"id": "3.1",
+				"nome": "Definir estratégias de gestão do passivo visando ao equilíbrio do plano",
+				"responsaveis": [
+					"GECAT"
+				],
+				"indicadores": [{
+					"nome": "% de Estudos concluídos e validados",
+					"target": "100% até nov/18",
+					"atual": ""
+				}],
+				"iniciativas": [{
+						"id": "3.1.1",
+						"nome": "Desenvolver estudo para analisar a viabilidade da adequação sustentável da meta atuarial",
+						"responsaveis": [
+							"RISCO"
+						],
+						"conducao": [{
+							"nome": "Gabriel Peixoto",
+							"email": "gabriel@previ.com.br"
+						}],
+						"intervenientes": [
+							"GECAT",
+							"GEROP",
+							"GEPOC"
+						],
+						"inicio": "01/02/2018",
+						"fim": "02/05/2018",
+						"status": 1,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EZuKz84bk9hDiLOmC9yGCxwBM2cmRZFnXkvnyNF2yzQB1Q?e=yvETLB",
+							"descricao": "Escopo de Alto Nível 3.1.1"
+						}],
+						"entregasAtb1": [
+							"01/04/2018"
+						],
+						"etapas": [{
+								"id": "3.1.1.1",
+								"descricao": "Confecção dos cenários (planilha)",
+								"inicio": "01/02/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "3.1.1.10",
+								"descricao": "Apresentação nos Comitês Gerencial e Patrocinador",
+								"inicio": "18/04/2018",
+								"fim": "25/04/2018"
+							},
+							{
+								"id": "3.1.1.11",
+								"descricao": "Nota à Diretoria Executiva com estudo realizado para conhecimento",
+								"inicio": "26/04/2018",
+								"fim": "02/05/2018"
+							},
+							{
+								"id": "3.1.1.12",
+								"descricao": "3.1.1 - Entrega ATB 2018.1 - Relatório de Viabilidade de Adequação Sustentável da Meta Atuarial",
+								"inicio": "30/04/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "3.1.1.2",
+								"descricao": "Consolidação das projeções de ativos e passivos",
+								"inicio": "01/02/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "3.1.1.3",
+								"descricao": "Confecção das projeções de fluxos do passivo",
+								"inicio": "01/02/2018",
+								"fim": "20/02/2018"
+							},
+							{
+								"id": "3.1.1.4",
+								"descricao": "Definição dos parâmetros das simulações de ALM",
+								"inicio": "20/02/2018",
+								"fim": "21/02/2018"
+							},
+							{
+								"id": "3.1.1.5",
+								"descricao": "Execução das simulações de ALM",
+								"inicio": "23/02/2018",
+								"fim": "02/03/2018"
+							},
+							{
+								"id": "3.1.1.6",
+								"descricao": "Confecção do Cenário Macro Descritivo",
+								"inicio": "01/02/2018",
+								"fim": "09/03/2018"
+							},
+							{
+								"id": "3.1.1.7",
+								"descricao": "Consolidação dos resultados",
+								"inicio": "08/03/2018",
+								"fim": "28/03/2018"
+							},
+							{
+								"id": "3.1.1.8",
+								"descricao": "Elaboração do relatório",
+								"inicio": "14/03/2018",
+								"fim": "10/04/2018"
+							},
+							{
+								"id": "3.1.1.9",
+								"descricao": "Enviar aos membros do C. Gerencial, para avaliação, o relatório contendo os Planos de Ação",
+								"inicio": "11/04/2018",
+								"fim": "17/04/2018"
+							}
+						]
+					},
+					{
+						"id": "3.1.2",
+						"nome": "Analisar o comportamento da Reserva Matemática em diversos cenários de taxas de juros",
+						"responsaveis": [
+							"GECAT"
+						],
+						"conducao": [
+							"GECAT"
+						],
+						"intervenientes": [
+							"RISCO",
+							"GEPOC"
+						],
+						"inicio": "01/02/2018",
+						"fim": "25/06/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/ERoVI1M44LZBnLdgYWTLYMABIVbwxYEPCMDoAztj6xIV0A?e=Fk2Mvw",
+							"descricao": "Escopo de Alto Nível 3.1.2"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "3.1.2.1",
+								"descricao": "Reunião inicial com todos os intervenientes para confirmação do Cronograma e Premissas de estudos",
+								"inicio": "01/02/2018",
+								"fim": "01/02/2018"
+							},
+							{
+								"id": "3.1.2.2",
+								"descricao": "Definição e entrega dos cenários a serem contemplados nas simulações.",
+								"inicio": "01/02/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "3.1.2.3",
+								"descricao": "Entrega das simulações dos cenários considerando diversas taxas de juros.",
+								"inicio": "01/02/2018",
+								"fim": "15/05/2018"
+							},
+							{
+								"id": "3.1.2.4",
+								"descricao": "Avaliação das principais variáveis que impactam as reservas matemáticas em função da mudança da taxa de juros.",
+								"inicio": "01/02/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "3.1.2.5",
+								"descricao": "Apresentação dos resultados  dos estudos e discussão com as áreas intervenientes.",
+								"inicio": "01/06/2018",
+								"fim": "08/06/2018"
+							},
+							{
+								"id": "3.1.2.6",
+								"descricao": "Elaboração de relatório com as conclusões do estudo.",
+								"inicio": "01/06/2018",
+								"fim": "20/06/2018"
+							},
+							{
+								"id": "3.1.2.7",
+								"descricao": "Nota à Diretoria Executiva com estudo realizado",
+								"inicio": "21/06/2018",
+								"fim": "25/06/2018"
+							},
+							{
+								"id": "3.1.2.8",
+								"descricao": "3.1.2 - Entrega ATB 2018.1 - Comportamento Reserva Matemática - NT pautada à D.E. com estudo e simulações realizadas",
+								"inicio": "26/06/2018",
+								"fim": "26/06/2018"
+							}
+						]
+					},
+					{
+						"id": "3.1.3",
+						"nome": "Desenvolver estudos para a gestão de ativos e passivos visando ao equilíbrio do Plano 1",
+						"responsaveis": [
+							"GECAT"
+						],
+						"conducao": [
+							"GECAT"
+						],
+						"intervenientes": [
+							"RISCO",
+							"GEPOC"
+						],
+						"inicio": "02/07/2018",
+						"fim": "28/11/2018",
+						"status": 5,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EUasx-iF2u1OtY6THRN2iHkBbCpsuQpQ1XTAW_evhksMwg?e=xVwdQJ",
+							"descricao": "Escopo de Alto Nível 3.1.3"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+								"id": "3.1.3.1",
+								"descricao": "Definição e entrega dos cenários a serem contemplados nas simulações (GEPOC).",
+								"inicio": "02/07/2018",
+								"fim": "15/10/2018"
+							},
+							{
+								"id": "3.1.3.2",
+								"descricao": "Realização de simulações dos cenários do ALM a serem utilizadas nos estudos (RISCO)",
+								"inicio": "02/07/2018",
+								"fim": "31/10/2018"
+							},
+							{
+								"id": "3.1.3.3",
+								"descricao": "Realização de estudos com o objetivo de apresentar cenários com o resultado do plano em duas situações: a) abaixo do limite de déficit técnico para equacionamento; b) equilíbrio técnico do plano. (GECAT)",
+								"inicio": "02/07/2018",
+								"fim": "14/11/2018"
+							},
+							{
+								"id": "3.1.3.4",
+								"descricao": "Nota à Diretoria Executiva com estudo realizado",
+								"inicio": "16/11/2018",
+								"fim": "28/11/2018"
+							},
+							{
+								"id": "3.1.3.5",
+								"descricao": "3.1.3 - Gestão Ativos e Passivos - NT pautada à D.E. com estudo e simulações realizadas",
+								"inicio": "28/11/2018",
+								"fim": "28/11/2018"
+							}
+						]
+					}
+				],
+				"projetos": []
+			},
+			{
+				"id": "3.2",
+				"nome": "Executar a estratégia de liquidez para os investimentos em renda variável",
+				"responsaveis": [
+					"GERIN"
+				],
+				"indicadores": [{
+					"nome": "% de volume de ativos com classificação de liquidez (A,B e C) / o volume total",
+					"target": "90% A, B e C Dez/23",
+					"atual": "42,09%"
+				}],
+				"iniciativas": [{
+						"id": "3.2.1",
+						"nome": "Atualizar Plano/Estratégia de alienação e liquidez da carteira de Participações do Plano 1",
+						"responsaveis": [
+							"GERIN"
+						],
+						"conducao": [{
+							"nome": "Rafael Sach",
+							"email": "rafaelsach@previ.com.br"
+						}],
+						"intervenientes": [
+							"GETEC"
+						],
+						"inicio": "02/01/2018",
+						"fim": "29/03/2018",
+						"status": 1,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EUst3xj6FkRJtbtT1YL8W8ABLwe7ebwzifQ_bkGiIjAC_A?e=RSZ9ih",
+							"descricao": "Escopo de Alto Nível 3.2.1"
+						}],
+						"entregasAtb1": [
+							"01/03/2018"
+						],
+						"etapas": [{
+								"id": "3.2.1.1",
+								"descricao": "Atualização do estudo com definição das diretrizes e plano de atuação para cada ativo",
+								"inicio": "02/01/2018",
+								"fim": "31/01/2018"
+							},
+							{
+								"id": "3.2.1.2",
+								"descricao": "Validar diretrizes e plano",
+								"inicio": "02/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "3.2.1.3",
+								"descricao": "Plano/Estratégia de alienação e liquidez da carteira de Participações do Plano 1",
+								"inicio": "09/02/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "3.2.1.4",
+								"descricao": "3.2.1 - Entrega ATB 2018.1 - Plano / Estratégia de Liquidez Atualizado",
+								"inicio": "29/03/2018",
+								"fim": "29/03/2018"
+							}
+						]
+					},
+					{
+						"id": "3.2.2",
+						"nome": "Apresentar Plano de Ação para ajustes na Carteira de RV à Mercado, considerando o desinvestimento líquido e a otimização da relação risco/retorno",
+						"responsaveis": [
+							"GECAP"
+						],
+						"conducao": [{
+								"nome": "Vinícius Andrade",
+								"email": "viniciusandrade@previ.com.br"
+							},
+							{
+								"nome": "Alessandra Vaz",
+								"email": "alessandravaz@previ.com.br"
+							}
+						],
+						"intervenientes": [
+							"GETEC"
+						],
+						"inicio": "02/01/2018",
+						"fim": "29/03/2018",
+						"status": 1,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EfYUM2caig1Jmvy9KbyWmwoBAzjOK-tyw8GUBXh9fXVB_g?e=AMkVic",
+							"descricao": "Escopo de Alto Nível 3.2.2"
+						}],
+						"entregasAtb1": [
+							"01/03/2018"
+						],
+						"etapas": [{
+								"id": "3.2.2.1",
+								"descricao": "Definição de parâmetros para elegibiliade de ações pertencentes ao IBrX, ISE e IPOs.",
+								"inicio": "02/01/2018",
+								"fim": "26/01/2018"
+							},
+							{
+								"id": "3.2.2.2",
+								"descricao": "Seleção dos ativos de RV.",
+								"inicio": "29/01/2018",
+								"fim": "16/03/2018"
+							},
+							{
+								"id": "3.2.2.3",
+								"descricao": "Avaliação econômico-financeira dos ativos selecionados",
+								"inicio": "29/01/2018",
+								"fim": "16/03/2018"
+							},
+							{
+								"id": "3.2.2.4",
+								"descricao": "Indicação de oportunidades de investimento orientadas ao médio e longo prazos.",
+								"inicio": "29/01/2018",
+								"fim": "26/03/2018"
+							},
+							{
+								"id": "3.2.2.5",
+								"descricao": "Encaminhar o Plano de Investimento em ações.",
+								"inicio": "27/03/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "3.2.2.6",
+								"descricao": "3.2.2 - Entrega ATB 2018.1 - Plano de Ação para ajustes na carteira RV concluído",
+								"inicio": "29/03/2018",
+								"fim": "29/03/2018"
+							}
+						]
+					}
+				],
+				"projetos": []
+			},
+			{
+				"id": "3.3",
+				"nome": " Alinhamento estratégico com o patrocinador frente às ações judiciais",
+				"responsaveis": [
+					"GABIN"
+				],
+				"indicadores": [{
+					"nome": "% de estratégias apresentadas ao patrocinador/ estratégias identificadas",
+					"target": "100% até ago/18",
+					"atual": ""
+				}],
+				"iniciativas": [{
+						"id": "3.3.1",
+						"nome": "Identificar ações judiciais movidas contra o BB que impactam o Plano 1",
+						"responsaveis": [
+							"GECOB"
+						],
+						"conducao": [{
+							"nome": "Claudia Maia",
+							"email": "claudiamaia@previ.com.br"
+						}],
+						"intervenientes": [
+							"ASJUR",
+							"GECAT",
+							"GEBEN"
+						],
+						"inicio": "02/01/2018",
+						"fim": "06/04/2018",
+						"status": 1,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/Eaetzmhj_xFBtHeo4I6fwnYBYZPiHQi1lu7cCJDXmJ16GQ?e=HUd9VQ",
+							"descricao": "Escopo de Alto Nível 3.3.1"
+						}],
+						"entregasAtb1": [
+							"01/03/2018"
+						],
+						"etapas": [{
+								"id": "3.3.1.1",
+								"descricao": "Mapeamento de ações iniciadas no BB que impactam a Previ (ex. ações judiciais e seus desdobramentos, condução das ações judiciais pelo BB no processo, etc).",
+								"inicio": "02/01/2018",
+								"fim": "31/01/2018"
+							},
+							{
+								"id": "3.3.1.2",
+								"descricao": "Identificação dos impactos (ex devolução de contribuições, etc)",
+								"inicio": "01/02/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "3.3.1.3",
+								"descricao": "Aprovação pela alçada definida (PRESI e DISEG)",
+								"inicio": "29/03/2018",
+								"fim": "06/04/2018"
+							},
+							{
+								"id": "3.3.1.4",
+								"descricao": "3.3.1 - Entrega ATB 2018.1 - Demandas judiciais identificadas (tipo e impacto)",
+								"inicio": "06/04/2018",
+								"fim": "06/04/2018"
+							}
+						]
+					},
+					{
+						"id": "3.3.2",
+						"nome": "Definir internamente estratégias que possam mitigar o(s) impacto(s)",
+						"responsaveis": [
+							"ASJUR"
+						],
+						"conducao": [{
+							"nome": "Vinícius Neves",
+							"email": "viniciusneves@previ.com.br"
+						}],
+						"intervenientes": [
+							"GABIN",
+							"GECOB"
+						],
+						"inicio": "09/04/2018",
+						"fim": "06/07/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EWKE79LwPYBEnU7ARvinnEwB7OoGDzpkdqBUhgtN0_H86g?e=sYdNn7",
+							"descricao": "Escopo de Alto Nível 3.3.2"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "3.3.2.1",
+								"descricao": "Definir estratégias para endereçamento dos impactos identificados",
+								"inicio": "09/04/2018",
+								"fim": "07/06/2018"
+							},
+							{
+								"id": "3.3.2.2",
+								"descricao": "Formatar plano de ação para cada demanda, a ser negociado com o patrocinador",
+								"inicio": "08/06/2018",
+								"fim": "06/07/2018"
+							},
+							{
+								"id": "3.3.2.3",
+								"descricao": "3.3.2 - Entrega ATB 2018.1 - Plano de Ação segmentado por tipo de demanda judicial oriunda do BB",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							}
+						]
+					},
+					{
+						"id": "3.3.3",
+						"nome": "Negociar com o patrocinador a implementação das estratégias",
+						"responsaveis": [
+							"GABIN"
+						],
+						"conducao": [{
+							"nome": "Marcelo Coelho",
+							"email": "marcelocoelho@previ.com.br"
+						}],
+						"intervenientes": [
+							"ASJUR"
+						],
+						"inicio": "02/07/2018",
+						"fim": "31/08/2018",
+						"status": 5,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/ESOThxjehJlJvI6hapKpQNsBm07o8goAyISdNDyzS-cAlw?e=Xb427c",
+							"descricao": "Escopo de Alto Nível 3.3.3"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+								"id": "3.3.3.1",
+								"descricao": "Identificar as estratégias jurídicas que serão levadas para negociação no BB",
+								"inicio": "02/07/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "3.3.3.2",
+								"descricao": "Realizar a negociação com o BB",
+								"inicio": "01/08/2018",
+								"fim": "31/08/2018"
+							},
+							{
+								"id": "3.3.3.3",
+								"descricao": "3.3.3 - Relatório de estratégias negociadas com o BB, com resultados obtidos",
+								"inicio": "31/08/2018",
+								"fim": "31/08/2018"
+							}
+						]
+					}
+				],
+				"projetos": []
+			},
+			{
+				"id": "3.4",
+				"nome": "Definir estratégia para novos investimentos",
+				"responsaveis": [
+					"GEPOC"
+				],
+				"indicadores": [{
+					"nome": "% de Estudos e Relatérios concluídos e validados",
+					"target": "100% até dez/18",
+					"atual": ""
+				}],
+				"iniciativas": [{
+						"id": "3.4.1",
+						"nome": "Estudar alternativas de investimentos para o Plano 1",
+						"responsaveis": [
+							"GEPOC"
+						],
+						"conducao": [{
+							"nome": "Márcio Butzke",
+							"email": "marciobutzke@previ.com.br"
+						}],
+						"intervenientes": [
+							"RISCO",
+							"GEROP",
+							"GECAP",
+							"GEPAR",
+							"GERAI",
+							"GERIN"
+						],
+						"inicio": "02/01/2018",
+						"fim": "28/12/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EaDOqSJ2A7VIqexrkbwbMoMBeNHy9ex9BjHv6OjzCuPXsA?e=iVYSBh",
+							"descricao": "Escopo de Alto Nível 3.4.1"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "3.4.1.1",
+								"descricao": "Elaborar estudo sobre o segmento de Investimentos no Exterior com alternativas de mesoalocação",
+								"inicio": "02/01/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "3.4.1.10",
+								"descricao": "Inv. Estruturados - Validar finalização do estudo para envio aos Diretores",
+								"inicio": "28/09/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "3.4.1.11",
+								"descricao": "Definir opções para manutenção da liquidez e sustentabilidade do Plano 1 em cenário de redução da taxa de juros",
+								"inicio": "02/07/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "3.4.1.12",
+								"descricao": "3.4.1 A - Entrega ATB 2018.1 - Estudos dos segmentos com alternativas de mesoalocação",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "3.4.1.13",
+								"descricao": "3.4.1 B - Diretrizes na P.I. - Definir opções para manutenção da liquidez e sustentabilidade do Plano 1",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "3.4.1.2",
+								"descricao": "Inv. Exterior - Validar finalização do estudo para envio aos Diretores",
+								"inicio": "29/03/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "3.4.1.3",
+								"descricao": "Elaborar estudo sobre o segmento de Renda Variável com alternativas de mesoalocação",
+								"inicio": "02/01/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "3.4.1.4",
+								"descricao": "Renda Variável - Validar finalização do estudo para envio aos Diretores",
+								"inicio": "29/03/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "3.4.1.5",
+								"descricao": "Elaborar estudo sobre o segmento de Renda Fixa com alternativas de mesoalocação",
+								"inicio": "02/04/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "3.4.1.6",
+								"descricao": "Renda Fixa - Validar finalização do estudo para envio aos Diretores",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "3.4.1.7",
+								"descricao": "Elaborar estudo sobre o segmento de Imóveis com alternativas de mesoalocação",
+								"inicio": "02/04/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "3.4.1.8",
+								"descricao": "Imoveis - Validar finalização do estudo para envio aos Diretores",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "3.4.1.9",
+								"descricao": "Elaborar estudo sobre o segmento de Investimentos Estruturados com alternativas de mesoalocação",
+								"inicio": "02/07/2018",
+								"fim": "28/09/2018"
+							}
+						]
+					},
+					{
+						"id": "3.4.2",
+						"nome": "Desenvolver estratégias robustas de hedge para as classes de invest. de RV e Invest. no exterior",
+						"responsaveis": [
+							"GECAP"
+						],
+						"conducao": [{
+							"nome": "Daniel Teixeira",
+							"email": "danielteixeira@previ.com.br"
+						}],
+						"intervenientes": [
+							"Sem Intervenientes"
+						],
+						"inicio": "01/03/2018",
+						"fim": "29/06/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EebdDfQ-ColPp2RrDDohziIBVfx_WHJN7_aqIxQg7ZOj8g?e=44Jm42",
+							"descricao": "Escopo de Alto Nível 3.4.2"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "3.4.2.1",
+								"descricao": "Levantamento de dados e informações sobre as melhores práticas de proteção para ativos de renda variável e moedas.",
+								"inicio": "01/03/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "3.4.2.2",
+								"descricao": "Estudo sobre estruturas de proteção de ativos.",
+								"inicio": "02/04/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "3.4.2.3",
+								"descricao": "Elaboração de estudo e de apresentação sobre estrutura de proteção para as classes de investimento de renda variável e investimento no exterior.",
+								"inicio": "02/05/2018",
+								"fim": "15/06/2018"
+							},
+							{
+								"id": "3.4.2.4",
+								"descricao": "Encaminhar o estudo sobre proteção das classes de investimento de renda variável e investimento no exterior.",
+								"inicio": "21/05/2018",
+								"fim": "25/05/2018"
+							},
+							{
+								"id": "3.4.2.5",
+								"descricao": "Apresentação do Estudo ao DIRIN e obter seu De acordo",
+								"inicio": "18/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "3.4.2.6",
+								"descricao": "3.4.2 - Entrega ATB 2018.1 - Estudo contendo alternativas de proteção cambial",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							}
+						]
+					}
+				],
+				"projetos": []
+			}
+		]
+	},
+	{
+		"id": 4,
+		"cor": "brown",
+		"nome": "Maximização dos benefícios e equilíbrio do plano Previ Futuro ",
+		"responsaveis": [
+			"DIPLA",
+			"DIRIN",
+			"DISEG"
+		],
+		"indicadorMacro": {
+			"nome": "Benefício (saldo de conta / Benefício (Índice de referência)",
+			"target": "Maior ou igual a 1",
+			"atual": null
+		},
+		"diretrizes": [{
+				"id": "4.1",
+				"nome": " Estruturar a gestão do Plano Previ Futuro na fase de acumulação ",
+				"responsaveis": [
+					"GEVAR"
+				],
+				"indicadores": [{
+					"nome": "% de iniciativas concluídas / iniciativas planejadas",
+					"target": "100% até jul/18",
+					"atual": ""
+				}],
+				"iniciativas": [{
+						"id": "4.1.1",
+						"nome": "Discutir a revisão da regra PIP",
+						"responsaveis": [
+							"GEVAR"
+						],
+						"conducao": [{
+							"nome": "Victor Sodré",
+							"email": "vsodre@previ.com.br"
+						}],
+						"intervenientes": [
+							"GABIN",
+							"GECAT"
+						],
+						"inicio": "02/01/2018",
+						"fim": "26/06/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/Ee6TJkEau8NBtqS1z88k4nYBMb2oycbQZwkAO180s_sG8g?e=G7lKGo",
+							"descricao": "Escopo de Alto Nível 4.1.1"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "4.1.1.1",
+								"descricao": "Pautar apresentação contendo informações dos Estudos / Simulações realizadas pela GECAT de forma a equalizar proposta PIP com D.E.",
+								"inicio": "04/01/2018",
+								"fim": "30/01/2018"
+							},
+							{
+								"id": "4.1.1.2",
+								"descricao": "Negociação com o BB para alteração da atual regra da PIP para contribuições adicionais 2B.",
+								"inicio": "02/01/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "4.1.1.3",
+								"descricao": "Pautar apresentação contendo informações atualizadas a respeito da negociação com BB",
+								"inicio": "22/03/2018",
+								"fim": "22/03/2018"
+							},
+							{
+								"id": "4.1.1.4",
+								"descricao": "Efetuar apresentação à Diretoria Executiva",
+								"inicio": "27/03/2018",
+								"fim": "27/03/2018"
+							},
+							{
+								"id": "4.1.1.5",
+								"descricao": "Continuidade da negociação com o BB para alteração da atual regra da PIP para contribuições adicionais 2B.",
+								"inicio": "28/03/2018",
+								"fim": "26/06/2018"
+							},
+							{
+								"id": "4.1.1.6",
+								"descricao": "Pautar apresentação contendo informações atualizadas a respeito da negociação com BB",
+								"inicio": "21/06/2018",
+								"fim": "21/06/2018"
+							},
+							{
+								"id": "4.1.1.7",
+								"descricao": "Efetuar apresentação à Diretoria Executiva",
+								"inicio": "26/06/2018",
+								"fim": "26/06/2018"
+							},
+							{
+								"id": "4.1.1.8",
+								"descricao": "4.1.1 - ATB 2018.1 - Negociação com o BB de forma alinhada a D.E. mediante apresentações trimestrais",
+								"inicio": "27/06/2018",
+								"fim": "27/06/2018"
+							}
+						]
+					},
+					{
+						"id": "4.1.2",
+						"nome": "Controlar Saldo de Conta da Parte II pela meta atuarial",
+						"responsaveis": [
+							"GEVAR"
+						],
+						"conducao": [
+							"GEVAR"
+						],
+						"intervenientes": [
+							"INFOR"
+						],
+						"inicio": "08/01/2018",
+						"fim": "31/07/2018",
+						"status": 2,
+						"arquivos": [],
+						"entregasAtb1": [
+							"01/03/2018"
+						],
+						"etapas": [{
+								"id": "4.1.2.1",
+								"descricao": "Agendar reunião para definir metodologia de cálculo para utilização do índice atuarial.",
+								"inicio": "08/01/2018",
+								"fim": "10/01/2018"
+							},
+							{
+								"id": "4.1.2.10",
+								"descricao": "Comite Patrocinador - Aprovação da Inclusão como Iniciativa Tático",
+								"inicio": "20/04/2018",
+								"fim": "20/04/2018"
+							},
+							{
+								"id": "4.1.2.11",
+								"descricao": "Onda 1 - Execução das FSDs",
+								"inicio": "24/04/2018",
+								"fim": "24/04/2018"
+							},
+							{
+								"id": "4.1.2.12",
+								"descricao": "Planejamento das Demais Ondas (1 e 2)",
+								"inicio": "24/04/2018",
+								"fim": "24/04/2018"
+							},
+							{
+								"id": "4.1.2.13",
+								"descricao": "Limite para avaliação pela Previc",
+								"inicio": "14/05/2018",
+								"fim": "14/05/2018"
+							},
+							{
+								"id": "4.1.2.14",
+								"descricao": "Demandas Onda 1 Finalizadas",
+								"inicio": "24/04/2018",
+								"fim": "24/04/2018"
+							},
+							{
+								"id": "4.1.2.2",
+								"descricao": "Marcar reunião com as gerências intervenientes para verificar impactos e  definições dos requisitos funcionais.",
+								"inicio": "11/01/2018",
+								"fim": "09/02/2018"
+							},
+							{
+								"id": "4.1.2.3",
+								"descricao": "Definição de escopo",
+								"inicio": "15/02/2018",
+								"fim": "16/03/2018"
+							},
+							{
+								"id": "4.1.2.4",
+								"descricao": "Abrir FSD",
+								"inicio": "19/03/2018",
+								"fim": "22/03/2018"
+							},
+							{
+								"id": "4.1.2.5",
+								"descricao": "4.1.2 - Entrega Parcial ATB 2018.1 - Definição do Escopo e Pedido de Estimativas (FSD) para a INFOR",
+								"inicio": "23/03/2018",
+								"fim": "23/03/2018"
+							},
+							{
+								"id": "4.1.2.6",
+								"descricao": "Entrega Final (jul/18) - Controle de Saldo da Parte II pela meta atuarial disponibilizado",
+								"inicio": "01/08/2018",
+								"fim": "01/08/2018"
+							},
+							{
+								"id": "4.1.2.7",
+								"descricao": "Alinhamento GEPAB GEVAR com INFOR e Eproj",
+								"inicio": "28/02/2018",
+								"fim": "28/02/2018"
+							},
+							{
+								"id": "4.1.2.8",
+								"descricao": "Protocolo do Novo Regulamento na Previc",
+								"inicio": "13/03/2018",
+								"fim": "13/03/2018"
+							},
+							{
+								"id": "4.1.2.9",
+								"descricao": "Planejamento Proposta para Onda 1",
+								"inicio": "12/04/2018",
+								"fim": "12/04/2018"
+							}
+						]
+					}
+				],
+				"projetos": []
+			},
+			{
+				"id": "4.2",
+				"nome": "Estruturar as obrigações e responsabilidades na fase BD visando à sustentabilidade do Previ Futuro ",
+				"responsaveis": [
+					"GECAT"
+				],
+				"indicadores": [{
+					"nome": "% de Estudos concluídos e validados",
+					"target": "100% até nov/18",
+					"atual": ""
+				}],
+				"iniciativas": [{
+						"id": "4.2.1",
+						"nome": "Mapear os riscos que podem comprometer a sustentabilidade do Plano Previ Futuro",
+						"responsaveis": [
+							"RISCO"
+						],
+						"conducao": [{
+							"nome": "Gabriel Tavares",
+							"email": "gabriel@previ.com.br"
+						}],
+						"intervenientes": [
+							"GEPOC",
+							"GECAP",
+							"GECAT"
+						],
+						"inicio": "02/01/2018",
+						"fim": "22/06/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EfNxhvnXT8NBjQ_70X1e_iMBUzIPLmcygghsVD_VGJ5lxg?e=OI1j95",
+							"descricao": "Escopo de Alto Nível 4.2.1"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "4.2.1.1",
+								"descricao": "Levantar e descrever os riscos inerentes ao Previ Futuro (mapa de riscos)",
+								"inicio": "02/01/2018",
+								"fim": "29/03/2018"
+							},
+							{
+								"id": "4.2.1.2",
+								"descricao": "Construção do mapa de riscos do Previ Futuro",
+								"inicio": "02/04/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "4.2.1.3",
+								"descricao": "Classificar os riscos por impacto e probabilidade",
+								"inicio": "02/05/2018",
+								"fim": "18/05/2018"
+							},
+							{
+								"id": "4.2.1.4",
+								"descricao": "Desenvolver planos de ação para mitigar os riscos mais críticos",
+								"inicio": "21/05/2018",
+								"fim": "01/06/2018"
+							},
+							{
+								"id": "4.2.1.5",
+								"descricao": "Enviar aos membros do Comitê Gerencial, para avaliação, o relatório contendo os Planos de Ação",
+								"inicio": "04/06/2018",
+								"fim": "08/06/2018"
+							},
+							{
+								"id": "4.2.1.6",
+								"descricao": "Apresentação aos Comitês Gerencial e Patrocinador",
+								"inicio": "11/06/2018",
+								"fim": "18/06/2018"
+							},
+							{
+								"id": "4.2.1.7",
+								"descricao": "Nota à Diretoria Executiva com estudo realizado para conhecimento",
+								"inicio": "19/06/2018",
+								"fim": "22/06/2018"
+							},
+							{
+								"id": "4.2.1.8",
+								"descricao": "4.2.1 - Entrega ATB 2018.1 - Riscos que podem comprometer sustentabilidade do PPF mapeados e consolidados",
+								"inicio": "02/07/2018",
+								"fim": "02/07/2018"
+							}
+						]
+					},
+					{
+						"id": "4.2.2",
+						"nome": "Desenvolver estudos para identificar os principais fatores que impactam o resultado do plano",
+						"responsaveis": [
+							"GECAT"
+						],
+						"conducao": [
+							"GECAT"
+						],
+						"intervenientes": [
+							"RISCO",
+							"GEPOC"
+						],
+						"inicio": "02/01/2018",
+						"fim": "28/06/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EXqAg29C4w1BtsBwzhQjj9YBw7YFT21IDlITFT39g8_FZw?e=lpygVR",
+							"descricao": "Escopo de Alto Nível 4.2.2"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "4.2.2.1",
+								"descricao": "Reunião inicial com todos os intervenientes para confirmação do Cronograma e Premissas de estudos.",
+								"inicio": "02/01/2018",
+								"fim": "05/01/2018"
+							},
+							{
+								"id": "4.2.2.10",
+								"descricao": "4.2.2 - Fatores que impactam resultados PPF identificados",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "4.2.2.2",
+								"descricao": "Definição e entrega dos cenários a serem contemplados nas simulações.",
+								"inicio": "08/01/2018",
+								"fim": "30/04/2018"
+							},
+							{
+								"id": "4.2.2.3",
+								"descricao": "Entrega das simulações com as projeções dos benefícios e contribuições que subsidiarão os estudos da GECAT.",
+								"inicio": "08/01/2018",
+								"fim": "15/05/2018"
+							},
+							{
+								"id": "4.2.2.4",
+								"descricao": "Avaliação das principais variáveis que impactam os resultados técnicos de cada uma das partes que compõem o plano.",
+								"inicio": "08/01/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "4.2.2.5",
+								"descricao": "Apresentação dos resultados  das simulações e discussão com as áreas intervenientes (GEPOC e RISCO).",
+								"inicio": "01/06/2018",
+								"fim": "08/06/2018"
+							},
+							{
+								"id": "4.2.2.6",
+								"descricao": "Elaboração de relatório  do estudo relativo às principais variáveis que impactam os resultados técnicos de cada uma das partes que compõem o plano.",
+								"inicio": "01/06/2018",
+								"fim": "20/06/2018"
+							},
+							{
+								"id": "4.2.2.7",
+								"descricao": "Enviar aos membros do Comitê Gerencial, para avaliação, os estudos contemplando as principais variáveis que impactam o resultado do PPF",
+								"inicio": "21/06/2018",
+								"fim": "21/06/2018"
+							},
+							{
+								"id": "4.2.2.8",
+								"descricao": "Apresentação aos Comitês Gerencial e Patrocinador",
+								"inicio": "22/06/2018",
+								"fim": "27/06/2018"
+							},
+							{
+								"id": "4.2.2.9",
+								"descricao": "Nota à Diretoria Executiva com estudo realizado para conhecimento",
+								"inicio": "28/06/2018",
+								"fim": "28/06/2018"
+							}
+						]
+					},
+					{
+						"id": "4.2.3",
+						"nome": "Estruturar a gestão do Plano Previ Futuro na fase BD",
+						"responsaveis": [
+							"GECAT"
+						],
+						"conducao": [
+							"GECAT"
+						],
+						"intervenientes": [
+							"RISCO",
+							"GEPOC"
+						],
+						"inicio": "02/07/2018",
+						"fim": "22/11/2018",
+						"status": 5,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EQBrpx_HDflElJHgt6Usl94B-qcF91teEdn6s7T7aeUKMw?e=A5764t",
+							"descricao": "Escopo de Alto Nível 4.2.3"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+								"id": "4.2.3.1",
+								"descricao": "Reunião inicial com todos os intervenientes para confirmação do Cronograma e Premissas de estudos.",
+								"inicio": "02/07/2018",
+								"fim": "05/07/2018"
+							},
+							{
+								"id": "4.2.3.2",
+								"descricao": "Definição e entrega dos cenários a serem contemplados nas simulações.",
+								"inicio": "05/07/2018",
+								"fim": "20/09/2018"
+							},
+							{
+								"id": "4.2.3.3",
+								"descricao": "Entrega das simulações com as projeções dos benefícios e contribuições que subsidiarão os estudos da GECAT.",
+								"inicio": "05/07/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "4.2.3.4",
+								"descricao": "Elaborar estudos visando ao equilíbrio de cada uma das partes do plano por meio da gestão atuarial, buscando a manutenção de sua sustentabilidade.",
+								"inicio": "02/07/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "4.2.3.5",
+								"descricao": "Apresentação dos resultados  dos estudos para as áreas intervenientes.",
+								"inicio": "01/10/2018",
+								"fim": "11/10/2018"
+							},
+							{
+								"id": "4.2.3.6",
+								"descricao": "Elaboração de relatório com os estudos.",
+								"inicio": "15/10/2018",
+								"fim": "31/10/2018"
+							},
+							{
+								"id": "4.2.3.7",
+								"descricao": "Nota à Diretoria Executiva com estudo realizado",
+								"inicio": "08/11/2018",
+								"fim": "22/11/2018"
+							},
+							{
+								"id": "4.2.3.8",
+								"descricao": "4.2.3 - Gestão do PPF estruturada na fase BD",
+								"inicio": "27/11/2018",
+								"fim": "27/11/2018"
+							}
+						]
+					}
+				],
+				"projetos": []
+			},
+			{
+				"id": "4.3",
+				"nome": " Gerar retornos orientados aos perfis de risco dos associados e para a parte BD",
+				"responsaveis": [
+					"GECAP"
+				],
+				"indicadores": [{
+						"nome": "Benchmark por perfil",
+						"target": "A definir",
+						"atual": ""
+					},
+					{
+						"nome": "Rentabilidade por classe de investimento",
+						"target": "Benchmark da política",
+						"atual": ""
+					}
+				],
+				"iniciativas": [{
+						"id": "4.3.1",
+						"nome": "Estudo sobe filosofia/método de investimento orientados ao longo prazo",
+						"responsaveis": [
+							"GECAP"
+						],
+						"conducao": [{
+							"nome": "Daniel Teixeira",
+							"email": "danielteixeira@previ.com.br"
+						}],
+						"intervenientes": [
+							"GETEC",
+							"GERIN",
+							"GEROP",
+							"GEPOC"
+						],
+						"inicio": "02/01/2018",
+						"fim": "31/10/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EUpYgyOj8c5Aj9p4z-kie68BhRUVW9Net5dnIc8ZbwssDQ?e=wGXscx",
+							"descricao": "Escopo de Alto Nível 4.3.1"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+								"id": "4.3.1.1",
+								"descricao": "Alinhamento de atividades entre as gerências .",
+								"inicio": "02/01/2018",
+								"fim": "19/01/2018"
+							},
+							{
+								"id": "4.3.1.2",
+								"descricao": "Levantamento de dados e informações sobre as melhores práticas e filosofias de investimento para o longo prazo.",
+								"inicio": "22/01/2018",
+								"fim": "30/05/2018"
+							},
+							{
+								"id": "4.3.1.3",
+								"descricao": "Estudo sobre as melhores práticas de gestão das classes de ativos de renda fixa, renda variável, investimentos estruturados e investimento imobiliários, buscando a maximização de retorno no longo prazo.",
+								"inicio": "01/06/2018",
+								"fim": "11/10/2018"
+							},
+							{
+								"id": "4.3.1.4",
+								"descricao": "Apresentação do Estudo sobre as melhores práticas de gestão das classes de ativos, contendo indicações de oportunidade de investimento orientadas ao médio e longo prazo.",
+								"inicio": "15/10/2018",
+								"fim": "31/10/2018"
+							},
+							{
+								"id": "4.3.1.5",
+								"descricao": "4.3.1 - Estudo sobre a filosofia/método de investimento orientados para o longo prazo",
+								"inicio": "31/10/2018",
+								"fim": "31/10/2018"
+							}
+						]
+					},
+					{
+						"id": "4.3.2",
+						"nome": "Realizar avaliação e diversificação de investimentos no exterior",
+						"responsaveis": [
+							"GECAP"
+						],
+						"conducao": [{
+							"nome": "Daniel Teixeira",
+							"email": "danielteixeira@previ.com.br"
+						}],
+						"intervenientes": [
+							"GEROP",
+							"GERIN",
+							"GEPOC"
+						],
+						"inicio": "02/04/2018",
+						"fim": "30/11/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/ETcmbkuW2utHqFhL2VGpIc0BR-_z0YR--xPWjezFT6Tu1Q?e=epMxPJ",
+							"descricao": "Escopo de Alto Nível 4.3.2"
+						}],
+						"entregasAtb1": [],
+						"etapas": [{
+								"id": "4.3.2.1",
+								"descricao": "Levantamento de dados e informações sobre alternativas ativos e produtos de investimento no exterior.",
+								"inicio": "02/04/2018",
+								"fim": "31/07/2018"
+							},
+							{
+								"id": "4.3.2.2",
+								"descricao": "Elaboração de estudo sobre alternativas de investimento no exterior, com vistas a diversificação alocativa.",
+								"inicio": "01/08/2018",
+								"fim": "31/10/2018"
+							},
+							{
+								"id": "4.3.2.3",
+								"descricao": "Elaboração de apresentação de estudo sobre alternativas de investimento no exterior, com vistas a diversificação alocativa.",
+								"inicio": "01/11/2018",
+								"fim": "16/11/2018"
+							},
+							{
+								"id": "4.3.2.4",
+								"descricao": "Apresentação e encaminhamento do Estudo sobre alternativas de investimento no exterior",
+								"inicio": "19/11/2018",
+								"fim": "30/11/2018"
+							},
+							{
+								"id": "4.3.2.5",
+								"descricao": "4.3.2 - Estudo contendo alternativas de investimento no exterior.",
+								"inicio": "30/11/2018",
+								"fim": "30/11/2018"
+							}
+						]
+					},
+					{
+						"id": "4.3.3",
+						"nome": "Monitorar questões-chave para a Estratificação das Classes de Ativos no Projeto Plataformas",
+						"responsaveis": [
+							"GETEC"
+						],
+						"conducao": [{
+							"nome": "Juliana Couzzi",
+							"email": "julianacouzzi@previ.com.br"
+						}],
+						"intervenientes": [
+							"INFOR",
+							"GEPOC",
+							"GECON",
+							"GEVAR"
+						],
+						"inicio": "08/01/2018",
+						"fim": "29/06/2018",
+						"status": 3,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/Ee3aBKLEKnNMmf-9z8_WndIB9keXL-ISndPqNP5aOfcvdA?e=RcfjGp",
+							"descricao": "Escopo de Alto Nível 4.3.3"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "4.3.3.1",
+								"descricao": "Revisitar o Modelo Ciclo de Vida e os requisitos afins a estratificação das classes de ativos",
+								"inicio": "08/01/2018",
+								"fim": "02/03/2018"
+							},
+							{
+								"id": "4.3.3.2",
+								"descricao": "Acompanhar a definição das regras de negócio e fluxos relacionados à estratificação das classes de ativos no Projeto Plataformas",
+								"inicio": "19/02/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "4.3.3.3",
+								"descricao": "4.3.3 - Requisitos da Estratificação, Ciclo de Vida e Migração Parcial endereçados no Plataformas",
+								"inicio": "02/07/2018",
+								"fim": "02/07/2018"
+							},
+							{
+								"id": "4.3.3.5",
+								"descricao": "4.4.1 - Estudar alternativas de investimentos p/ o Plano 1 (comum à iniciativa 3.4.1)",
+								"inicio": "02/01/2018",
+								"fim": "29/06/2018"
+							}
+						]
+					}
+				],
+				"projetos": []
+			},
+			{
+				"id": "4.4",
+				"nome": "Definir estratégias para novos investimentos ",
+				"responsaveis": [
+					"GEPOC"
+				],
+				"indicadores": [{
+					"nome": "% de Estudos e Relatérios concluídos e validados",
+					"target": "100% até dez/18",
+					"atual": ""
+				}],
+				"iniciativas": [{
+						"id": "4.4.1",
+						"nome": "Estudar alternativas de investimentos para o PPF",
+						"responsaveis": [
+							"GEPOC"
+						],
+						"conducao": [
+							"GEPOC"
+						],
+						"intervenientes": [
+							"RISCO",
+							"GEROP",
+							"GECAP",
+							"GERIN",
+							"GERAI",
+							"GEPAR"
+						],
+						"inicio": "02/01/2018",
+						"fim": "29/06/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/ETFrgTDtAExGuDRo38miLioBVFD3hnlSA4Y-lw1qniRkyw?e=M2hpbt",
+							"descricao": "Escopo de Alto Nível 4.4.1"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+								"id": "4.4.1.1",
+								"descricao": "4.4.1 A - Entrega ATB 2018.1 - Estudos dos segmentos com alternativas de mesoalocação",
+								"inicio": "29/06/2018",
+								"fim": "29/06/2018"
+							},
+							{
+								"id": "4.4.1.2",
+								"descricao": "Elaborar estudo sobre o segmento de Investimentos Estruturados com alternativas de mesoalocação (comum à iniciativa 3.4.1)",
+								"inicio": "02/07/2018",
+								"fim": "28/09/2018"
+							},
+							{
+								"id": "4.4.1.3",
+								"descricao": "Diretrizes para os Perfis de Investimentos",
+								"inicio": "02/07/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "4.4.1.4",
+								"descricao": "Diretrizes para a parte BD do Plano",
+								"inicio": "02/07/2018",
+								"fim": "28/12/2018"
+							},
+							{
+								"id": "4.4.1.5",
+								"descricao": "4.4.1 B - Diretrizes na Política de Investimentos do PPF",
+								"inicio": "28/12/2018",
+								"fim": "28/12/2018"
+							}
+						]
+					},
+					{
+						"id": "4.4.2",
+						"nome": "Desenvolver estratégias robustas de hedge para as classes de invest. de RV e Invest. no exterior",
+						"responsaveis": [
+							"GECAP"
+						],
+						"conducao": [
+							"GECAP"
+						],
+						"intervenientes": [
+							"Sem Intervenientes"
+						],
+						"inicio": "01/03/2018",
+						"fim": "29/06/2018",
+						"status": 2,
+						"arquivos": [{
+							"link": "https://previ-my.sharepoint.com/:x:/g/personal/luiz7c8_previ_com_br/EUxRF9z3VBtOq2dBZcLTiq8B16JzGtOLY8Arye7JrhxyKA?e=qGFMZu",
+							"descricao": "Escopo de Alto Nível 4.4.2"
+						}],
+						"entregasAtb1": [
+							"01/06/2018"
+						],
+						"etapas": [{
+							"id": "4.4.2.1",
+							"descricao": "4.4.2 - Entrega ATB 2018.1 - Estudo contendo alternativas de proteção cambial",
+							"inicio": "29/06/2018",
+							"fim": "29/06/2018"
+						}]
+					}
+				],
+				"projetos": []
+			}
+		]
+	}
+]

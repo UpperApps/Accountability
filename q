@@ -1,0 +1,114 @@
+[33mcommit 3c3dd1b1f4b9e103bbf32f3a39c2f7ad7fb5ca89[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/28_51_criar_dashboard[m[33m)[m
+Merge: 0566d58 431125f
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Mon Mar 19 11:28:40 2018 -0300
+
+    merge do 1_37 para o master
+
+[33mcommit 431125f636575bbd47f0d3f2423e5d475a2acd3d[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Mon Mar 19 11:18:36 2018 -0300
+
+    adicionado stteper e alterado caminho das paginas
+
+[33mcommit 7f8499f9ba38ac081fd977c275aa8690ba6a76be[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Fri Mar 16 17:47:30 2018 -0300
+
+    criação da pagina de apresentação
+
+[33mcommit 7d24a9f8a170343cf5f257a581e8395772516906[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Fri Mar 16 16:53:36 2018 -0300
+
+    alteração footer
+
+[33mcommit 88ddf4d2a3e02c034e771a3914331282b85919c2[m[33m ([m[1;31morigin/1_35_Criar_card_modal[m[33m)[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Fri Mar 16 15:36:41 2018 -0300
+
+    alteraçãi no card modal info
+
+[33mcommit 821684240ff1d729446c356009c4a413de5fd0a8[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Fri Mar 16 12:36:14 2018 -0300
+
+    create pages and changes menu link
+
+[33mcommit aa9f3aeae4bd66a4101a185fad0db0f7f53f4201[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Fri Mar 16 12:02:31 2018 -0300
+
+    change layout
+
+[33mcommit 096ba5f9982c35f6139de85720a8bbc10d2f87f9[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Fri Mar 16 12:00:41 2018 -0300
+
+    change login
+
+[33mcommit 36357a58b18f225ff6594ba09be328c0606de680[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Fri Mar 16 11:59:48 2018 -0300
+
+    change home
+
+[33mcommit 0c27fc1c08e06657f484159caa675a742384d569[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Fri Mar 16 11:58:20 2018 -0300
+
+    basiclaout change
+
+[33mcommit 894485aa25b82f8e6a1efa8b489b1c3934927017[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Fri Mar 16 11:57:11 2018 -0300
+
+    layoutmenu changes
+
+[33mcommit dd7120b07fcaac3e6ef20368a2fc539bd315c9a1[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Fri Mar 16 11:51:42 2018 -0300
+
+    add image
+
+[33mcommit 360bb558d9af2804065a6d023ad7811707d17b84[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Fri Mar 16 11:48:34 2018 -0300
+
+    criação do menunavigation e menutitle
+
+[33mcommit 8c77e09f535e3ca3f1ceb8283d81c2b27d0cac3b[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Fri Mar 16 10:32:29 2018 -0300
+
+    criação do modalInfo e do botão para chamada do modal
+
+[33mcommit 67f880ba71fd1dd9311592d213d355392e2d41cd[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Thu Mar 15 15:29:35 2018 -0300
+
+    ajuste no cardModal e criação do cardInfo
+
+[33mcommit 21066b5ad23729e9bd008e9da62c4f92a342dd03[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Thu Mar 15 13:05:54 2018 -0300
+
+    criação da estrutura do card modal
+
+[33mcommit 0566d5822f35edede43d26bb9985d32fc22fa1af[m
+Author: Samurai <samurai@garagem.previ.com.br>
+Date:   Thu Mar 15 10:14:18 2018 -0300
+
+    Atualização do seed para o accountability
+
+[33mcommit 7a06446612508f50f99588c0c699608ab15ed20e[m
+Author: Rodrigo da Silva Melo <rodrigomelo@garagem.previ.com.br>
+Date:   Tue Mar 13 13:06:13 2018 -0300
+
+    Finalização da estrutura do Layout com Menu.
+
+[33mcommit a61239a58f14f58c7d0e291873fb67a4aa7728c2[m
+Author: Rodrigo da Silva Melo <rodrigomelo@garagem.previ.com.br>
+Date:   Tue Mar 13 11:46:53 2018 -0300
+
+    Commit inicial do projeto.
