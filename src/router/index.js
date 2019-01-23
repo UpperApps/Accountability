@@ -19,7 +19,7 @@ const router = new Router({
       path: '/',
       component: LayoutMenu,
       meta: {
-        requiresAuthentication: true
+        requiresAuthentication: false
       },
       children: [
         { path: '', component: Inicio, name: 'inicio', title: 'Início', menu: true },
