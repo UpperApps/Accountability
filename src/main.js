@@ -8,7 +8,7 @@ import VueResource from 'vue-resource'
 import VeeValidate from 'vee-validate'
 import 'vuetify/dist/vuetify.min.css'
 import colors from 'vuetify/es5/util/colors'
-import authentication from '@/domain/servicos/autenticacao'
+// import authentication from '@/domain/servicos/autenticacao'
 import fontawesome from '@fortawesome/fontawesome'
 import brands from '@fortawesome/fontawesome-free-brands'
 import { faSpinner } from '@fortawesome/fontawesome-free-solid'
@@ -41,16 +41,26 @@ Vue.use(VueSVGIcon)
 
 Vue.config.productionTip = false
 // Init adal authentication - then create Vue app.
-authentication.initialize().then(_ => {
-  /* eslint-disable no-new */
-  new Vue({
-    el: '#app',
-    router,
-    components: {
-      App
-    },
-    template: '<App/>'
-  })
+// authentication.initialize().then(_ => {
+//   /* eslint-disable no-new */
+//   new Vue({
+//     el: '#app',
+//     router,
+//     components: {
+//       App
+//     },
+//     template: '<App/>'
+//   })
+// })
+
+/* eslint-disable no-new */
+new Vue({
+  el: '#app',
+  router,
+  components: {
+    App
+  },
+  template: '<App/>'
 })
 
 const { detect } = require('detect-browser')
